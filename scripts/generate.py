@@ -26,7 +26,12 @@ def gen_tables(name, trans):
             if char_count <= line_len or table_w_cur <= table_w_max:
                 for num, x in enumerate([o_word, p_word, w_word]):
                     sub_table[num].append(f'\\tc{table_w_cur}')
-                    sub_table[num].append(x)
+                    if num == 0:
+                        sub_table[num].append(f'\ow {x} \ow*')
+                    elif num == 1:
+                        sub_table[num].append(f'\pw {x} \pw*')
+                    else:
+                        sub_table[num].append(f'\ww {x} \ww*')
                 if table_w_cur < table_w_max:
                     table_w_cur += 1
                 char_count += update_char_count(p_word, w_word)
