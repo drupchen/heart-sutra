@@ -1,16 +1,16 @@
 \p
 \v 1
-\tr \tc0 རྒྱ་གར་ \tc1 སྐད་ \tc2 དུ། \tc3 བྷ་ག་ཝ་ཏི་པྲཛྙཱ་པ་ར་མི་ཏ་ཧྲྀ་ད་ཡ། \tc4 བོད་ \tc5 སྐད་
-\tr \tc0 gyakar \tc1 ké \tc2 tu \tc3 bhagavatiprajnyaparamitahridaya \tc4 pö \tc5 ké
-\tr \tc0 India \tc1 language \tc2 TO \tc3 bhagavatï-prajpäramitä-hridaya \tc4 Tibet \tc5 language
+\tr \tc0 རྒྱ་གར་ \tc1 སྐད་ \tc2 དུ། \tc3 བྷ་ག་ཝ་ཏི་པྲཛྙཱ་པ་ར་མི་ཏ་ཧྲྀ་ད་ཡ། \tc4 བོད་
+\tr \tc0 gyakar \tc1 ké \tc2 tu \tc3 bhagavatiprajnyaparamitahridaya \tc4 pö
+\tr \tc0 India \tc1 language \tc2 TO \tc3 bhagavatï-prajpäramitä-hridaya \tc4 Tibet
 \b
-\tr \tc0 དུ། \tc1 བཅོམ་ལྡན་འདས་མ་ \tc2 ཤེས་རབ་ \tc3 ཀྱི་ \tc4 ཕ་རོལ་ \tc5 ཏུ་ \tc6 ཕྱིན་པ \tc7 འི་ \tc8 སྙིང་པོ།
-\tr \tc0 tu \tc1 chomdendema \tc2 sherab \tc3 kyi \tc4 pharol \tc5 tu \tc6 chinpa \tc7 'i \tc8 nyingpo
-\tr \tc0 TO \tc1 Bhagavati \tc2 Prajñä \tc3 OF \tc4 other-shore \tc5 TO \tc6 gone \tc7 OF \tc8 heart
+\tr \tc0 སྐད་ \tc1 དུ། \tc2 བཅོམ་ལྡན་འདས་མ་ \tc3 ཤེས་རབ་ \tc4 ཀྱི་ \tc5 ཕ་རོལ་ \tc6 ཏུ་ \tc7 ཕྱིན་པ
+\tr \tc0 ké \tc1 tu \tc2 chomdendema \tc3 sherab \tc4 kyi \tc5 pharol \tc6 tu \tc7 chinpa
+\tr \tc0 language \tc1 TO \tc2 Bhagavati \tc3 Prajñä \tc4 OF \tc5 other-shore \tc6 TO \tc7 gone
 \b
-\tr \tc0 བམ་པོ་ \tc1 གཅིག་ \tc2 གོ།
-\tr \tc0 pampo \tc1 chik \tc2 ko
-\tr \tc0 fascicle \tc1 one \tc2 END
+\tr \tc0 འི་ \tc1 སྙིང་པོ། \tc2 བམ་པོ་ \tc3 གཅིག་ \tc4 གོ།
+\tr \tc0 'i \tc1 nyingpo \tc2 pampo \tc3 chik \tc4 ko
+\tr \tc0 OF \tc1 heart \tc2 fascicle \tc3 one \tc4 END
 \sp In Sanskrit: bhagavatï-prajñäpäramitä-hridaya; In Tibetan: The Bhagavati, the Heart of the Perfection of Wisdom
 \p
 \v 2
@@ -20,109 +20,125 @@
 \sp Thus did I hear. At one time,
 \p
 \v 3
-\tr \tc0 བཅོམ་ལྡན་འདས་ \tc1 རྒྱལ་པོའི་ཁབ་ \tc2 བྱ་རྒོད་ \tc3 ཕུང་པོ \tc4 འི་ \tc5 རི་ \tc6 ལ་ \tc7 དགེ་སློང་
-\tr \tc0 chomdendé \tc1 gyalpo'ikhab \tc2 chagö \tc3 phungpo \tc4 'i \tc5 ri \tc6 la \tc7 gelong
-\tr \tc0 Bhagavan \tc1 Rajagriha \tc2 vulture \tc3 mass \tc4 OF \tc5 mountain \tc6 TO \tc7 monk
+\tr \tc0 བཅོམ་ལྡན་འདས་ \tc1 རྒྱལ་པོའི་ཁབ་ \tc2 བྱ་རྒོད་ \tc3 ཕུང་པོ \tc4 འི་ \tc5 རི་ \tc6 ལ་
+\tr \tc0 chomdendé \tc1 gyalpo'ikhab \tc2 chagö \tc3 phungpo \tc4 'i \tc5 ri \tc6 la
+\tr \tc0 Bhagavan \tc1 Rajagriha \tc2 vulture \tc3 mass \tc4 OF \tc5 mountain \tc6 TO
 \b
-\tr \tc0 གི་ \tc1 དགེ་འདུན་ \tc2 ཆེན་པོ་ \tc3 དང་། \tc4 བྱང་ཆུབ་སེམས་དཔ \tc5 འི་ \tc6 དགེ་འདུན་ \tc7 ཆེན་པོ་ \tc8 དང་
-\tr \tc0 ki \tc1 gendün \tc2 chenpo \tc3 tang \tc4 changchub-sempa \tc5 'i \tc6 gendün \tc7 chenpo \tc8 tang
-\tr \tc0 OF \tc1 community \tc2 great \tc3 and \tc4 bodhisattva \tc5 OF \tc6 community \tc7 great \tc8 and
+\tr \tc0 དགེ་སློང་ \tc1 གི་ \tc2 དགེ་འདུན་ \tc3 ཆེན་པོ་ \tc4 དང་། \tc5 བྱང་ཆུབ་སེམས་དཔ \tc6 འི་ \tc7 དགེ་འདུན་
+\tr \tc0 gelong \tc1 ki \tc2 gendün \tc3 chenpo \tc4 tang \tc5 changchub-sempa \tc6 'i \tc7 gendün
+\tr \tc0 monk \tc1 OF \tc2 community \tc3 great \tc4 and \tc5 bodhisattva \tc6 OF \tc7 community
 \b
-\tr \tc0 ཐབས་ཅིག་ \tc1 ཏུ་ \tc2 བཞུགས་ \tc3 ཏེ།
-\tr \tc0 thapchik \tc1 tu \tc2 zhuk \tc3 té
-\tr \tc0 together \tc1 OF \tc2 dwell \tc3 THEN
+\tr \tc0 ཆེན་པོ་ \tc1 དང་ \tc2 ཐབས་ཅིག་ \tc3 ཏུ་ \tc4 བཞུགས་ \tc5 ཏེ།
+\tr \tc0 chenpo \tc1 tang \tc2 thapchik \tc3 tu \tc4 zhuk \tc5 té
+\tr \tc0 great \tc1 and \tc2 together \tc3 OF \tc4 dwell \tc5 THEN
 \sp the Bhagavan was staying at Mass of Vultures Mountain in Rajagriha together with a great community of monks and a great community of bodhisattvas.
 \p
 \v 4
-\tr \tc0 དེ \tc1 འི་ \tc2 ཚེ་ \tc3 བཅོམ་ལྡན་འདས་ \tc4 ཟབ་མོ་ \tc5 སྣང་བ་ \tc6 ཞེས་བྱ་བ \tc7 འི་ \tc8 ཆོས་
-\tr \tc0 té \tc1 'i \tc2 tsé \tc3 chomdendé \tc4 zabmo \tc5 nangwa \tc6 zhechawa \tc7 'i \tc8 chö
-\tr \tc0 that \tc1 OF \tc2 time \tc3 Bhagavan \tc4 profound \tc5 perception \tc6 called \tc7 OF \tc8 phenomena
+\tr \tc0 དེ \tc1 འི་ \tc2 ཚེ་ \tc3 བཅོམ་ལྡན་འདས་ \tc4 ཟབ་མོ་ \tc5 སྣང་བ་ \tc6 ཞེས་བྱ་བ \tc7 འི་
+\tr \tc0 té \tc1 'i \tc2 tsé \tc3 chomdendé \tc4 zabmo \tc5 nangwa \tc6 zhechawa \tc7 'i
+\tr \tc0 that \tc1 OF \tc2 time \tc3 Bhagavan \tc4 profound \tc5 perception \tc6 called \tc7 OF
 \b
-\tr \tc0 ཀྱི་ \tc1 རྣམ་གྲངས་ \tc2 ཀྱི་ \tc3 ཏིང་ངེ་འཛིན་ \tc4 ལ་ \tc5 སྙོམས་པར་ཞུགས་ \tc6 སོ།།
-\tr \tc0 kyi \tc1 namtrang \tc2 kyi \tc3 ting-ngédzin \tc4 la \tc5 nyompar-zhuk \tc6 so
-\tr \tc0 OF \tc1 category \tc2 OF \tc3 concentration \tc4 TO \tc5 absorbed \tc6 END
+\tr \tc0 ཆོས་ \tc1 ཀྱི་ \tc2 རྣམ་གྲངས་ \tc3 ཀྱི་ \tc4 ཏིང་ངེ་འཛིན་ \tc5 ལ་ \tc6 སྙོམས་པར་ཞུགས་ \tc7 སོ།།
+\tr \tc0 chö \tc1 kyi \tc2 namtrang \tc3 kyi \tc4 ting-ngédzin \tc5 la \tc6 nyompar-zhuk \tc7 so
+\tr \tc0 phenomena \tc1 OF \tc2 category \tc3 OF \tc4 concentration \tc5 TO \tc6 absorbed \tc7 END
 \sp At that time, the Bhagavan absorbed himself in the concentration on the categories of phenomena called “Profound Perception.”
 \p
 \v 5
-\tr \tc0 ཡང་ \tc1 དེ \tc2 འི་ \tc3 ཚེ་ \tc4 བྱང་ཆུབ་སེམས་དཔའ་ \tc5 སེམས་དཔའ་ཆེན་པོ་ \tc6 འཕགས་པ་ \tc7 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་
-\tr \tc0 yang \tc1 té \tc2 'i \tc3 tsé \tc4 changchub-sempa \tc5 sempachenpo \tc6 phakpa \tc7 chenrezik-wangchuk
-\tr \tc0 and \tc1 that \tc2 OF \tc3 time \tc4 bodhisattva \tc5 mahasattva \tc6 arya \tc7 Avalokiteshvara
+\tr \tc0 ཡང་ \tc1 དེ \tc2 འི་ \tc3 ཚེ་ \tc4 བྱང་ཆུབ་སེམས་དཔའ་ \tc5 སེམས་དཔའ་ཆེན་པོ་ \tc6 འཕགས་པ་
+\tr \tc0 yang \tc1 té \tc2 'i \tc3 tsé \tc4 changchub-sempa \tc5 sempachenpo \tc6 phakpa
+\tr \tc0 and \tc1 that \tc2 OF \tc3 time \tc4 bodhisattva \tc5 mahasattva \tc6 arya
 \b
-\tr \tc0 ཤེས་རབ་ \tc1 ཀྱི་ \tc2 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc3 ཟབ་མོ \tc4 འི་ \tc5 སྤྱོད་པ་ \tc6 ཉིད་ \tc7 ལ་ \tc8 རྣམ་པར་
-\tr \tc0 sherab \tc1 kyi \tc2 pharol-tu-chinpa \tc3 zabmo \tc4 'i \tc5 chöpa \tc6 nyi \tc7 la \tc8 nampar
-\tr \tc0 wisdom \tc1 OF \tc2 perfection \tc3 profound \tc4 OF \tc5 practice \tc6 itself \tc7 TO \tc8 in-detail
+\tr \tc0 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ \tc1 ཤེས་རབ་ \tc2 ཀྱི་ \tc3 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc4 ཟབ་མོ \tc5 འི་
+\tr \tc0 chenrezik-wangchuk \tc1 sherab \tc2 kyi \tc3 pharol-tu-chinpa \tc4 zabmo \tc5 'i
+\tr \tc0 Avalokiteshvara \tc1 wisdom \tc2 OF \tc3 perfection \tc4 profound \tc5 OF
 \b
-\tr \tc0 བལྟ་ \tc1 ཞིང་
-\tr \tc0 ta \tc1 zhing
-\tr \tc0 look \tc1 and
+\tr \tc0 སྤྱོད་པ་ \tc1 ཉིད་ \tc2 ལ་ \tc3 རྣམ་པར་ \tc4 བལྟ་ \tc5 ཞིང་
+\tr \tc0 chöpa \tc1 nyi \tc2 la \tc3 nampar \tc4 ta \tc5 zhing
+\tr \tc0 practice \tc1 itself \tc2 TO \tc3 in-detail \tc4 look \tc5 and
 \sp Also, at that time, the bodhisattva mahasattva arya Avalokiteshvara looked at the practice of the profound perfection of wisdom itself and
 \p
 \v 6
-\tr \tc0 ཕུང་པོ་ \tc1 ལྔ་པོ་ \tc2 དེ་དག་ \tc3 ལ་ \tc4 ཡང་ \tc5 རང་བཞིན་ \tc6 གྱིས་ \tc7 སྟོང་པ \tc8 ར་
-\tr \tc0 phungpo \tc1 ngapo \tc2 tetak \tc3 la \tc4 yang \tc5 rangzhin \tc6 kyi \tc7 tongpa \tc8 'r
-\tr \tc0 aggregate \tc1 the-five \tc2 those \tc3 TO \tc4 also \tc5 nature \tc6 SUBJ \tc7 empty \tc8 TO
+\tr \tc0 ཕུང་པོ་ \tc1 ལྔ་པོ་ \tc2 དེ་དག་ \tc3 ལ་ \tc4 ཡང་ \tc5 རང་བཞིན་ \tc6 གྱིས་ \tc7 སྟོང་པ
+\tr \tc0 phungpo \tc1 ngapo \tc2 tetak \tc3 la \tc4 yang \tc5 rangzhin \tc6 kyi \tc7 tongpa
+\tr \tc0 aggregate \tc1 the-five \tc2 those \tc3 TO \tc4 also \tc5 nature \tc6 SUBJ \tc7 empty
 \b
-\tr \tc0 རྣམ་པར་ \tc1 བལྟ \tc2 འོ།།
-\tr \tc0 nampar \tc1 ta \tc2 'o
-\tr \tc0 in-detail \tc1 look \tc2 END
+\tr \tc0 ར་ \tc1 རྣམ་པར་ \tc2 བལྟ \tc3 འོ།།
+\tr \tc0 'r \tc1 nampar \tc2 ta \tc3 'o
+\tr \tc0 TO \tc1 in-detail \tc2 look \tc3 END
 \sp saw that the five aggregates as well are empty of inherent nature.
 \p
 \v 7
-\tr \tc0 དེ་ནས་ \tc1 སངས་རྒྱས་ \tc2 ཀྱི་ \tc3 མཐུ \tc4 ས། \tc5 ཚེ་དང་ལྡན་པ་ \tc6 ཤཱ་རིའི་བུ \tc7 ས་ \tc8 བྱང་ཆུབ་སེམས་དཔའ་
-\tr \tc0 tené \tc1 sangyé \tc2 kyi \tc3 thü \tc4 ' \tc5 tsétang-denpa \tc6 sharipü \tc7 ' \tc8 changchub-sempa
-\tr \tc0 then \tc1 Buddha \tc2 OF \tc3 power \tc4 SUBJ \tc5 venerable \tc6 Shariputra \tc7 SUBJ \tc8 bodhisattva
+\tr \tc0 དེ་ནས་ \tc1 སངས་རྒྱས་ \tc2 ཀྱི་ \tc3 མཐུ \tc4 ས། \tc5 ཚེ་དང་ལྡན་པ་ \tc6 ཤཱ་རིའི་བུ \tc7 ས་
+\tr \tc0 tené \tc1 sangyé \tc2 kyi \tc3 thü \tc4 ' \tc5 tsétang-denpa \tc6 sharipü \tc7 '
+\tr \tc0 then \tc1 Buddha \tc2 OF \tc3 power \tc4 SUBJ \tc5 venerable \tc6 Shariputra \tc7 SUBJ
 \b
-\tr \tc0 སེམས་དཔའ་ཆེན་པོ་ \tc1 འཕགས་པ་ \tc2 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ \tc3 ལ་ \tc4 འདི་སྐད་ཅེས་ \tc5 སྨྲས་ \tc6 སོ།།
-\tr \tc0 sempa-chenpo \tc1 phakpa \tc2 chenrezik-wangchuk \tc3 la \tc4 dikéché \tc5 mé \tc6 so
-\tr \tc0 mahasattva \tc1 arya \tc2 Avalokiteshvara \tc3 TO \tc4 in-these-words \tc5 said \tc6 END
+\tr \tc0 བྱང་ཆུབ་སེམས་དཔའ་ \tc1 སེམས་དཔའ་ཆེན་པོ་ \tc2 འཕགས་པ་ \tc3 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ \tc4 ལ་
+\tr \tc0 changchub-sempa \tc1 sempa-chenpo \tc2 phakpa \tc3 chenrezik-wangchuk \tc4 la
+\tr \tc0 bodhisattva \tc1 mahasattva \tc2 arya \tc3 Avalokiteshvara \tc4 TO
+\b
+\tr \tc0 འདི་སྐད་ཅེས་ \tc1 སྨྲས་ \tc2 སོ།།
+\tr \tc0 dikéché \tc1 mé \tc2 so
+\tr \tc0 in-these-words \tc1 said \tc2 END
 \sp Then, through the power of Buddha, the venerable Shariputra said this to the bodhisattva mahasattva arya Avalokiteshvara:
 \p
 \v 8
-\tr \tc0 རིགས་ \tc1 ཀྱི་ \tc2 བུ \tc3 འམ་ \tc4 རིགས་ \tc5 ཀྱི་ \tc6 བུ་མོ་ \tc7 གང་ལ་ལ་ \tc8 ཤེས་རབ་
-\tr \tc0 rik \tc1 kyi \tc2 pu \tc3 'am \tc4 rik \tc5 kyi \tc6 pumo \tc7 gang-lala \tc8 sherab
-\tr \tc0 lineage \tc1 OF \tc2 son \tc3 OR \tc4 lineage \tc5 OF \tc6 daugther \tc7 any \tc8 wisdom
+\tr \tc0 རིགས་ \tc1 ཀྱི་ \tc2 བུ \tc3 འམ་ \tc4 རིགས་ \tc5 ཀྱི་ \tc6 བུ་མོ་ \tc7 གང་ལ་ལ་
+\tr \tc0 rik \tc1 kyi \tc2 pu \tc3 'am \tc4 rik \tc5 kyi \tc6 pumo \tc7 gang-lala
+\tr \tc0 lineage \tc1 OF \tc2 son \tc3 OR \tc4 lineage \tc5 OF \tc6 daugther \tc7 any
 \b
-\tr \tc0 ཀྱི་ \tc1 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc2 ཟབ་མོ \tc3 འི་ \tc4 སྤྱོད་པ་ \tc5 སྤྱད་པ \tc6 ར་ \tc7 འདོད་པ་ \tc8 དེ
-\tr \tc0 kyi \tc1 pharol-tu-chinpa \tc2 zabmo \tc3 'i \tc4 chöpa \tc5 chepa \tc6 'r \tc7 döpa \tc8 té
-\tr \tc0 OF \tc1 perfection \tc2 profound \tc3 OF \tc4 activity \tc5 practice \tc6 TO \tc7 wishes \tc8 that
+\tr \tc0 ཤེས་རབ་ \tc1 ཀྱི་ \tc2 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc3 ཟབ་མོ \tc4 འི་ \tc5 སྤྱོད་པ་ \tc6 སྤྱད་པ \tc7 ར་
+\tr \tc0 sherab \tc1 kyi \tc2 pharol-tu-chinpa \tc3 zabmo \tc4 'i \tc5 chöpa \tc6 chepa \tc7 'r
+\tr \tc0 wisdom \tc1 OF \tc2 perfection \tc3 profound \tc4 OF \tc5 activity \tc6 practice \tc7 TO
 \b
-\tr \tc0 ས་ \tc1 ཇི་ལྟར་ \tc2 བསླབ་པ \tc3 ར་ \tc4 བྱ། \tc5 དེ་སྐད་ཅེས་ \tc6 སྨྲས་པ་ \tc7 དང་།
-\tr \tc0 ' \tc1 chitar \tc2 labpa \tc3 'r \tc4 cha \tc5 tekéché \tc6 mepa \tc7 tang
-\tr \tc0 SUBJ \tc1 how \tc2 train \tc3 TO \tc4 do \tc5 in-these-words \tc6 said \tc7 and
+\tr \tc0 འདོད་པ་ \tc1 དེ \tc2 ས་ \tc3 ཇི་ལྟར་ \tc4 བསླབ་པ \tc5 ར་ \tc6 བྱ། \tc7 དེ་སྐད་ཅེས་
+\tr \tc0 döpa \tc1 té \tc2 ' \tc3 chitar \tc4 labpa \tc5 'r \tc6 cha \tc7 tekéché
+\tr \tc0 wishes \tc1 that \tc2 SUBJ \tc3 how \tc4 train \tc5 TO \tc6 do \tc7 in-these-words
+\b
+\tr \tc0 སྨྲས་པ་ \tc1 དང་།
+\tr \tc0 mepa \tc1 tang
+\tr \tc0 said \tc1 and
 \sp “How should any son of the lineage or daugther of the lineage train who wishes to practice the activity of the profound perfection of wisdom?” He said that, and
 \p
 \v 9
-\tr \tc0 བྱང་ཆུབ་སེམས་དཔའ་ \tc1 སེམས་དཔའ་ཆེན་པོ་ \tc2 འཕགས་པ་ \tc3 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་
-\tr \tc0 changchub-sempa \tc1 sempa-chenpo \tc2 phakpa \tc3 chenrezik-wangchuk
-\tr \tc0 bodhisattva \tc1 mahasattva \tc2 arya \tc3 Avalokiteshvara
+\tr \tc0 བྱང་ཆུབ་སེམས་དཔའ་ \tc1 སེམས་དཔའ་ཆེན་པོ་ \tc2 འཕགས་པ་
+\tr \tc0 changchub-sempa \tc1 sempa-chenpo \tc2 phakpa
+\tr \tc0 bodhisattva \tc1 mahasattva \tc2 arya
 \b
-\tr \tc0 གིས་ \tc1 ཚེ་དང་ལྡན་པ་ \tc2 ཤཱ་ར་དྭ་ཏིའི་བུ་ \tc3 ལ་ \tc4 འདི་སྐད་ཅེས་ \tc5 སྨྲས་ \tc6 སོ།།
-\tr \tc0 ki \tc1 tsétang-denpa \tc2 sharadata'i-pu \tc3 la \tc4 dikéché \tc5 mé \tc6 so
-\tr \tc0 SUBJ \tc1 venerable \tc2 Sharadvatiputra \tc3 TO \tc4 in-these-words \tc5 said \tc6 END
+\tr \tc0 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ \tc1 གིས་ \tc2 ཚེ་དང་ལྡན་པ་ \tc3 ཤཱ་ར་དྭ་ཏིའི་བུ་ \tc4 ལ་
+\tr \tc0 chenrezik-wangchuk \tc1 ki \tc2 tsétang-denpa \tc3 sharadata'i-pu \tc4 la
+\tr \tc0 Avalokiteshvara \tc1 SUBJ \tc2 venerable \tc3 Sharadvatiputra \tc4 TO
+\b
+\tr \tc0 འདི་སྐད་ཅེས་ \tc1 སྨྲས་ \tc2 སོ།།
+\tr \tc0 dikéché \tc1 mé \tc2 so
+\tr \tc0 in-these-words \tc1 said \tc2 END
 \sp the bodhisattva mahasattva arya Avalokiteshvara said this to the venerable Sharadvati putra.
 \p
 \v 10
-\tr \tc0 ཤཱ་རིའི་བུ་ \tc1 རིགས་ \tc2 ཀྱི་ \tc3 བུ \tc4 འམ་ \tc5 རིགས་ \tc6 ཀྱི་ \tc7 བུ་མོ་ \tc8 གང་ལ་ལ་
-\tr \tc0 sharipu \tc1 rik \tc2 kyi \tc3 pu \tc4 'am \tc5 rik \tc6 kyi \tc7 pumo \tc8 gang-lala
-\tr \tc0 Shariputra \tc1 lineage \tc2 OF \tc3 son \tc4 OR \tc5 lineage \tc6 OF \tc7 daugther \tc8 any
+\tr \tc0 ཤཱ་རིའི་བུ་ \tc1 རིགས་ \tc2 ཀྱི་ \tc3 བུ \tc4 འམ་ \tc5 རིགས་ \tc6 ཀྱི་ \tc7 བུ་མོ་
+\tr \tc0 sharipu \tc1 rik \tc2 kyi \tc3 pu \tc4 'am \tc5 rik \tc6 kyi \tc7 pumo
+\tr \tc0 Shariputra \tc1 lineage \tc2 OF \tc3 son \tc4 OR \tc5 lineage \tc6 OF \tc7 daugther
 \b
-\tr \tc0 ཤེས་རབ་ \tc1 ཀྱི་ \tc2 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc3 ཟབ་མོ \tc4 འི་ \tc5 སྤྱོད་པ་ \tc6 སྤྱད་པ \tc7 ར་ \tc8 འདོད་པ་
-\tr \tc0 sherab \tc1 kyi \tc2 pharol-tu-chinpa \tc3 zabmo \tc4 'i \tc5 chöpa \tc6 chepa \tc7 'r \tc8 döpa
-\tr \tc0 wisdom \tc1 OF \tc2 perfection \tc3 profound \tc4 OF \tc5 activity \tc6 practice \tc7 TO \tc8 wishes
+\tr \tc0 གང་ལ་ལ་ \tc1 ཤེས་རབ་ \tc2 ཀྱི་ \tc3 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc4 ཟབ་མོ \tc5 འི་ \tc6 སྤྱོད་པ་
+\tr \tc0 gang-lala \tc1 sherab \tc2 kyi \tc3 pharol-tu-chinpa \tc4 zabmo \tc5 'i \tc6 chöpa
+\tr \tc0 any \tc1 wisdom \tc2 OF \tc3 perfection \tc4 profound \tc5 OF \tc6 activity
 \b
-\tr \tc0 དེ \tc1 ས་ \tc2 འདི་ལྟར་ \tc3 རྣམ་པར་ \tc4 བལྟ་བ \tc5 ར་ \tc6 བྱ་ \tc7 སྟེ།
-\tr \tc0 té \tc1 ' \tc2 ditar \tc3 nampar \tc4 tawa \tc5 'r \tc6 cha \tc7 té
-\tr \tc0 that \tc1 SUBJ \tc2 like-this \tc3 in-detail \tc4 look \tc5 TO \tc6 do \tc7 THEN
+\tr \tc0 སྤྱད་པ \tc1 ར་ \tc2 འདོད་པ་ \tc3 དེ \tc4 ས་ \tc5 འདི་ལྟར་ \tc6 རྣམ་པར་ \tc7 བལྟ་བ
+\tr \tc0 chepa \tc1 'r \tc2 döpa \tc3 té \tc4 ' \tc5 ditar \tc6 nampar \tc7 tawa
+\tr \tc0 practice \tc1 TO \tc2 wishes \tc3 that \tc4 SUBJ \tc5 like-this \tc6 in-detail \tc7 look
+\b
+\tr \tc0 ར་ \tc1 བྱ་ \tc2 སྟེ།
+\tr \tc0 'r \tc1 cha \tc2 té
+\tr \tc0 TO \tc1 do \tc2 THEN
 \sp “Shariputra, any son of the lineage or daughter of the lineage who wishes to practice the activity of the profound perfection of wisdom should look at it like this,
 \p
 \v 11
-\tr \tc0 ཕུང་པོ་ \tc1 ལྔ་པོ་ \tc2 དེ་དག་ \tc3 ཀྱང་ \tc4 རང་བཞིན་ \tc5 གྱིས་ \tc6 སྟོང་པ \tc7 ར་ \tc8 རྣམ་པར་
-\tr \tc0 phungpo \tc1 ngapo \tc2 tetak \tc3 kyang \tc4 rangzhin \tc5 kyi \tc6 tongpa \tc7 'r \tc8 nampar
-\tr \tc0 aggregate \tc1 five \tc2 those \tc3 also \tc4 nature \tc5 SUBJ \tc6 empty \tc7 TO \tc8 in-detail
+\tr \tc0 ཕུང་པོ་ \tc1 ལྔ་པོ་ \tc2 དེ་དག་ \tc3 ཀྱང་ \tc4 རང་བཞིན་ \tc5 གྱིས་ \tc6 སྟོང་པ \tc7 ར་
+\tr \tc0 phungpo \tc1 ngapo \tc2 tetak \tc3 kyang \tc4 rangzhin \tc5 kyi \tc6 tongpa \tc7 'r
+\tr \tc0 aggregate \tc1 five \tc2 those \tc3 also \tc4 nature \tc5 SUBJ \tc6 empty \tc7 TO
 \b
-\tr \tc0 ཡང་དག་པ \tc1 ར་ \tc2 རྗེས་སུ་ \tc3 བལྟ \tc4 འོ།།
-\tr \tc0 yangtakpa \tc1 'r \tc2 jesu \tc3 ta \tc4 'o
-\tr \tc0 perfect \tc1 TO \tc2 afterwards \tc3 look \tc4 END
+\tr \tc0 རྣམ་པར་ \tc1 ཡང་དག་པ \tc2 ར་ \tc3 རྗེས་སུ་ \tc4 བལྟ \tc5 འོ།།
+\tr \tc0 nampar \tc1 yangtakpa \tc2 'r \tc3 jesu \tc4 ta \tc5 'o
+\tr \tc0 in-detail \tc1 perfect \tc2 TO \tc3 afterwards \tc4 look \tc5 END
 \sp perfectly considering entirely those five aggregates as empty of inherent nature.
 \p
 \v 12
@@ -150,27 +166,27 @@
 \sp form is also not other than emptiness.
 \p
 \v 16
-\tr \tc0 དེ་བཞིན་དུ་ \tc1 ཚོར་བ་ \tc2 དང་། \tc3 འདུ་ཤེས་ \tc4 དང་། \tc5 འདུ་བྱེད་
-\tr \tc0 te-zhintu \tc1 tsorwa \tc2 tang \tc3 dushé \tc4 tang \tc5 duché
-\tr \tc0 similarly \tc1 feeling \tc2 and \tc3 discrimination \tc4 and \tc5 compositional-factors
+\tr \tc0 དེ་བཞིན་དུ་ \tc1 ཚོར་བ་ \tc2 དང་། \tc3 འདུ་ཤེས་ \tc4 དང་།
+\tr \tc0 te-zhintu \tc1 tsorwa \tc2 tang \tc3 dushé \tc4 tang
+\tr \tc0 similarly \tc1 feeling \tc2 and \tc3 discrimination \tc4 and
 \b
-\tr \tc0 དང་། \tc1 རྣམ་པར་ཤེས་པ་ \tc2 རྣམས་ \tc3 སྟོང་པ \tc4 འོ།།
-\tr \tc0 tang \tc1 nampar-shepa \tc2 nam \tc3 tongpa \tc4 'o
-\tr \tc0 and \tc1 consciousness \tc2 all \tc3 empty \tc4 END
+\tr \tc0 འདུ་བྱེད་ \tc1 དང་། \tc2 རྣམ་པར་ཤེས་པ་ \tc3 རྣམས་ \tc4 སྟོང་པ \tc5 འོ།།
+\tr \tc0 duché \tc1 tang \tc2 nampar-shepa \tc3 nam \tc4 tongpa \tc5 'o
+\tr \tc0 compositional-factors \tc1 and \tc2 consciousness \tc3 all \tc4 empty \tc5 END
 \sp In the same way, feeling, discrimination, compositional factors, and consciousness are empty.
 \p
 \v 17
-\tr \tc0 ཤཱ་རིའི་བུ། \tc1 དེ་ལྟར་ \tc2 ཆོས་ \tc3 ཐམས་ཅད་ \tc4 སྟོང་པ་ཉིད་ \tc5 དེ། \tc6 མཚན་ཉིད་
-\tr \tc0 sharipu \tc1 tetar \tc2 chö \tc3 thamché \tc4 tongpanyi \tc5 té \tc6 tsennyi
-\tr \tc0 Shariputra \tc1 like-this \tc2 phenomenon \tc3 all \tc4 emptiness \tc5 THEN \tc6 characteristic
+\tr \tc0 ཤཱ་རིའི་བུ། \tc1 དེ་ལྟར་ \tc2 ཆོས་ \tc3 ཐམས་ཅད་ \tc4 སྟོང་པ་ཉིད་ \tc5 དེ།
+\tr \tc0 sharipu \tc1 tetar \tc2 chö \tc3 thamché \tc4 tongpanyi \tc5 té
+\tr \tc0 Shariputra \tc1 like-this \tc2 phenomenon \tc3 all \tc4 emptiness \tc5 THEN
 \b
-\tr \tc0 མེད་པ། \tc1 མ་སྐྱེས་པ། \tc2 མ་འགགས་པ། \tc3 དྲི་མ་ \tc4 མེད་པ། \tc5 དྲི་མ་ \tc6 དང་ \tc7 བྲལ་བ་ \tc8 མེད་པ།
-\tr \tc0 mepa \tc1 makyepa \tc2 magakpa \tc3 trima \tc4 mepa \tc5 trima \tc6 tang \tc7 tralwa \tc8 mepa
-\tr \tc0 has-not \tc1 unproduced \tc2 unceased \tc3 stain \tc4 has-not \tc5 stain \tc6 and \tc7 separated \tc8 has-not
+\tr \tc0 མཚན་ཉིད་ \tc1 མེད་པ། \tc2 མ་སྐྱེས་པ། \tc3 མ་འགགས་པ། \tc4 དྲི་མ་ \tc5 མེད་པ། \tc6 དྲི་མ་
+\tr \tc0 tsennyi \tc1 mepa \tc2 makyepa \tc3 magakpa \tc4 trima \tc5 mepa \tc6 trima
+\tr \tc0 characteristic \tc1 has-not \tc2 unproduced \tc3 unceased \tc4 stain \tc5 has-not \tc6 stain
 \b
-\tr \tc0 བྲི་བ་ \tc1 མེད་པ། \tc2 གང་བ་ \tc3 མེད་པ \tc4 འོ།།
-\tr \tc0 triwa \tc1 mepa \tc2 kangwa \tc3 mepa \tc4 'o
-\tr \tc0 deficient \tc1 has-not \tc2 fulfilled \tc3 has-not \tc4 END
+\tr \tc0 དང་ \tc1 བྲལ་བ་ \tc2 མེད་པ། \tc3 བྲི་བ་ \tc4 མེད་པ། \tc5 གང་བ་ \tc6 མེད་པ \tc7 འོ།།
+\tr \tc0 tang \tc1 tralwa \tc2 mepa \tc3 triwa \tc4 mepa \tc5 kangwa \tc6 mepa \tc7 'o
+\tr \tc0 and \tc1 separated \tc2 has-not \tc3 deficient \tc4 has-not \tc5 fulfilled \tc6 has-not \tc7 END
 \sp “Shariputra, likewise, all phenomena are emptiness. They have no characteristic; are not produced, do not cease; are not stained, are not without stain; are not diminished, are not filled.
 \p
 \v 18
@@ -276,17 +292,17 @@
 \sp these is no phenomenon.
 \p
 \v 35
-\tr \tc0 མིག་ \tc1 གི་ \tc2 ཁམས་ \tc3 མེད་པ་ \tc4 ནས་ \tc5 ཡིད་ \tc6 ཀྱི་ \tc7 ཁམས་ \tc8 མེད།
-\tr \tc0 mik \tc1 ki \tc2 kham \tc3 mepa \tc4 né \tc5 yi \tc6 kyi \tc7 kham \tc8 mé
-\tr \tc0 eye \tc1 OF \tc2 element \tc3 has-not \tc4 from \tc5 mind \tc6 OF \tc7 element \tc8 has-not
+\tr \tc0 མིག་ \tc1 གི་ \tc2 ཁམས་ \tc3 མེད་པ་ \tc4 ནས་ \tc5 ཡིད་ \tc6 ཀྱི་ \tc7 ཁམས་
+\tr \tc0 mik \tc1 ki \tc2 kham \tc3 mepa \tc4 né \tc5 yi \tc6 kyi \tc7 kham
+\tr \tc0 eye \tc1 OF \tc2 element \tc3 has-not \tc4 from \tc5 mind \tc6 OF \tc7 element
 \b
-\tr \tc0 ཡིད་ \tc1 ཀྱི་ \tc2 རྣམ་པར་ཤེས་པ \tc3 འི་ \tc4 ཁམས་ \tc5 ཀྱི་ \tc6 བར་དུ \tc7 འང་ \tc8 མེད་
-\tr \tc0 yi \tc1 kyi \tc2 nampar-shepa \tc3 'i \tc4 kham \tc5 kyi \tc6 partu \tc7 'ang \tc8 mé
-\tr \tc0 mind \tc1 OF \tc2 consciousness \tc3 OF \tc4 element \tc5 OF \tc6 until \tc7 also \tc8 has-not
+\tr \tc0 མེད། \tc1 ཡིད་ \tc2 ཀྱི་ \tc3 རྣམ་པར་ཤེས་པ \tc4 འི་ \tc5 ཁམས་ \tc6 ཀྱི་ \tc7 བར་དུ
+\tr \tc0 mé \tc1 yi \tc2 kyi \tc3 nampar-shepa \tc4 'i \tc5 kham \tc6 kyi \tc7 partu
+\tr \tc0 has-not \tc1 mind \tc2 OF \tc3 consciousness \tc4 OF \tc5 element \tc6 OF \tc7 until
 \b
-\tr \tc0 དོ།།
-\tr \tc0 to
-\tr \tc0 END
+\tr \tc0 འང་ \tc1 མེད་ \tc2 དོ།།
+\tr \tc0 'ang \tc1 mé \tc2 to
+\tr \tc0 also \tc1 has-not \tc2 END
 \sp There is no eye element, up to there is no mind element and up to there is no mental consciousness element.
 \p
 \v 36
@@ -308,13 +324,13 @@
 \sp and until there is no extinction of aging and death.
 \p
 \v 39
-\tr \tc0 དེ་བཞིན་དུ་ \tc1 སྡུག་བསྔལ་བ་ \tc2 དང་། \tc3 ཀུན་འབྱུང་བ་ \tc4 དང་། \tc5 འགོག་པ་ \tc6 དང་། \tc7 ལམ་
-\tr \tc0 tezhintu \tc1 dukngalwa \tc2 tang \tc3 künjungwa \tc4 tang \tc5 gokpa \tc6 tang \tc7 lam
-\tr \tc0 similarly \tc1 suffering \tc2 and \tc3 origination \tc4 and \tc5 cessation \tc6 and \tc7 path
+\tr \tc0 དེ་བཞིན་དུ་ \tc1 སྡུག་བསྔལ་བ་ \tc2 དང་། \tc3 ཀུན་འབྱུང་བ་ \tc4 དང་། \tc5 འགོག་པ་ \tc6 དང་།
+\tr \tc0 tezhintu \tc1 dukngalwa \tc2 tang \tc3 künjungwa \tc4 tang \tc5 gokpa \tc6 tang
+\tr \tc0 similarly \tc1 suffering \tc2 and \tc3 origination \tc4 and \tc5 cessation \tc6 and
 \b
-\tr \tc0 མེད།
-\tr \tc0 mé
-\tr \tc0 has-not
+\tr \tc0 ལམ་ \tc1 མེད།
+\tr \tc0 lam \tc1 mé
+\tr \tc0 path \tc1 has-not
 \sp Similarly, there is no suffering, origination, cessation, and path;
 \p
 \v 40
@@ -336,17 +352,17 @@
 \sp there is also no non-attainment.
 \p
 \v 43
-\tr \tc0 ཤཱ་རིའི་བུ། \tc1 དེ་ལྟ་བས་ན་ \tc2 བྱང་ཆུབ་སེམས་དཔའ་ \tc3 རྣམས་ \tc4 ལ་ \tc5 ཐོབ་པ་ \tc6 མེད་པ
-\tr \tc0 sharipu \tc1 tetawéna \tc2 changchub-sempa \tc3 nam \tc4 la \tc5 thob-pa \tc6 mepa
-\tr \tc0 Shariputra \tc1 therefore \tc2 bodhisattva \tc3 PL \tc4 TO \tc5 attainment \tc6 has-not
+\tr \tc0 ཤཱ་རིའི་བུ། \tc1 དེ་ལྟ་བས་ན་ \tc2 བྱང་ཆུབ་སེམས་དཔའ་ \tc3 རྣམས་ \tc4 ལ་ \tc5 ཐོབ་པ་
+\tr \tc0 sharipu \tc1 tetawéna \tc2 changchub-sempa \tc3 nam \tc4 la \tc5 thob-pa
+\tr \tc0 Shariputra \tc1 therefore \tc2 bodhisattva \tc3 PL \tc4 TO \tc5 attainment
 \b
-\tr \tc0 འི་ \tc1 ཕྱིར། \tc2 ཤེས་རབ་ \tc3 ཀྱི་ \tc4 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc5 ལ་ \tc6 བརྟེན་ \tc7 ཅིང་ \tc8 གནས་
-\tr \tc0 'i \tc1 chir \tc2 sherab \tc3 kyi \tc4 pharol-tu-chinpa \tc5 la \tc6 ten \tc7 ching \tc8 né
-\tr \tc0 OF \tc1 because \tc2 wisdom \tc3 OF \tc4 perfection \tc5 TO \tc6 rely \tc7 and \tc8 dwell
+\tr \tc0 མེད་པ \tc1 འི་ \tc2 ཕྱིར། \tc3 ཤེས་རབ་ \tc4 ཀྱི་ \tc5 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc6 ལ་ \tc7 བརྟེན་
+\tr \tc0 mepa \tc1 'i \tc2 chir \tc3 sherab \tc4 kyi \tc5 pharol-tu-chinpa \tc6 la \tc7 ten
+\tr \tc0 has-not \tc1 OF \tc2 because \tc3 wisdom \tc4 OF \tc5 perfection \tc6 TO \tc7 rely
 \b
-\tr \tc0 ཏེ་
-\tr \tc0 té
-\tr \tc0 THEN
+\tr \tc0 ཅིང་ \tc1 གནས་ \tc2 ཏེ་
+\tr \tc0 ching \tc1 né \tc2 té
+\tr \tc0 and \tc1 dwell \tc2 THEN
 \sp “Shariputra, therefore, because there is no attainment for bodhisattvas, they rely on and dwell in the perfection of wisdom,
 \p
 \v 44
@@ -368,39 +384,43 @@
 \sp they reached the endpoint of nirvana.
 \p
 \v 47
-\tr \tc0 དུས་ \tc1 གསུམ་ \tc2 དུ་ \tc3 རྣམ་པར་ \tc4 བཞུགས་པ \tc5 འི་ \tc6 སངས་རྒྱས་ \tc7 ཐམས་ཅད་ \tc8 ཀྱང་
-\tr \tc0 tü \tc1 sum \tc2 tu \tc3 nampar \tc4 zhukpa \tc5 'i \tc6 sangyé \tc7 thamché \tc8 kyang
-\tr \tc0 time \tc1 three \tc2 TO \tc3 completely \tc4 stay \tc5 OF \tc6 buddha \tc7 all \tc8 also
+\tr \tc0 དུས་ \tc1 གསུམ་ \tc2 དུ་ \tc3 རྣམ་པར་ \tc4 བཞུགས་པ \tc5 འི་ \tc6 སངས་རྒྱས་ \tc7 ཐམས་ཅད་
+\tr \tc0 tü \tc1 sum \tc2 tu \tc3 nampar \tc4 zhukpa \tc5 'i \tc6 sangyé \tc7 thamché
+\tr \tc0 time \tc1 three \tc2 TO \tc3 completely \tc4 stay \tc5 OF \tc6 buddha \tc7 all
 \b
-\tr \tc0 ཤེས་རབ་ \tc1 ཀྱི་ \tc2 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc3 ལ་ \tc4 བརྟེན་ \tc5 ནས་ \tc6 བླ་ན་མེད་པ་ \tc7 ཡང་དག་པར་ \tc8 རྫོགས་པ
-\tr \tc0 sherab \tc1 kyi \tc2 pharol-tu-chinpa \tc3 la \tc4 ten \tc5 né \tc6 lanamepa \tc7 yangtakpar \tc8 dzokpa
-\tr \tc0 wisdom \tc1 OF \tc2 perfection \tc3 TO \tc4 rely \tc5 THEN \tc6 unsurpassable \tc7 perfect \tc8 complete
+\tr \tc0 ཀྱང་ \tc1 ཤེས་རབ་ \tc2 ཀྱི་ \tc3 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc4 ལ་ \tc5 བརྟེན་ \tc6 ནས་ \tc7 བླ་ན་མེད་པ་
+\tr \tc0 kyang \tc1 sherab \tc2 kyi \tc3 pharol-tu-chinpa \tc4 la \tc5 ten \tc6 né \tc7 lanamepa
+\tr \tc0 also \tc1 wisdom \tc2 OF \tc3 perfection \tc4 TO \tc5 rely \tc6 THEN \tc7 unsurpassable
 \b
-\tr \tc0 འི་ \tc1 བྱང་ཆུབ་ \tc2 ཏུ་ \tc3 མངོན་པར་ \tc4 རྫོགས་པར་ \tc5 སངས་རྒྱས་ \tc6 སོ།།
-\tr \tc0 'i \tc1 changchub \tc2 tu \tc3 ngönpar \tc4 dzokpar \tc5 sangyé \tc6 so
-\tr \tc0 OF \tc1 enlightenment \tc2 TO \tc3 manifestly \tc4 completely \tc5 awaken \tc6 END
+\tr \tc0 ཡང་དག་པར་ \tc1 རྫོགས་པ \tc2 འི་ \tc3 བྱང་ཆུབ་ \tc4 ཏུ་ \tc5 མངོན་པར་ \tc6 རྫོགས་པར་
+\tr \tc0 yangtakpar \tc1 dzokpa \tc2 'i \tc3 changchub \tc4 tu \tc5 ngönpar \tc6 dzokpar
+\tr \tc0 perfect \tc1 complete \tc2 OF \tc3 enlightenment \tc4 TO \tc5 manifestly \tc6 completely
+\b
+\tr \tc0 སངས་རྒྱས་ \tc1 སོ།།
+\tr \tc0 sangyé \tc1 so
+\tr \tc0 awaken \tc1 END
 \sp All the buddhas who dwell in the three times also rely on the perfection of wisdom and manifestly, completely awaken to unsurpassable, perfect, complete enlightenment.
 \p
 \v 48
-\tr \tc0 དེ་ལྟ་བས་ན་ \tc1 ཤེས་རབ་ \tc2 ཀྱི་ \tc3 ཕ་རོལ་ཏུ་ཕྱིན་པ \tc4 འི་ \tc5 སྔགས། \tc6 རིག་པ་
-\tr \tc0 tetawéna \tc1 sherab \tc2 kyi \tc3 pharol-tu-chinpa \tc4 'i \tc5 ngak \tc6 rigpa
-\tr \tc0 therefore \tc1 wisdom \tc2 OF \tc3 perfection \tc4 OF \tc5 mantra \tc6 knowledge
+\tr \tc0 དེ་ལྟ་བས་ན་ \tc1 ཤེས་རབ་ \tc2 ཀྱི་ \tc3 ཕ་རོལ་ཏུ་ཕྱིན་པ \tc4 འི་ \tc5 སྔགས།
+\tr \tc0 tetawéna \tc1 sherab \tc2 kyi \tc3 pharol-tu-chinpa \tc4 'i \tc5 ngak
+\tr \tc0 therefore \tc1 wisdom \tc2 OF \tc3 perfection \tc4 OF \tc5 mantra
 \b
-\tr \tc0 ཆེན་པོ \tc1 འི་ \tc2 སྔགས། \tc3 བླ་ན་མེད་པ \tc4 འི་ \tc5 སྔགས། \tc6 མི་མཉམ་པ་ \tc7 དང་ \tc8 མཉམ་པ
-\tr \tc0 chenpo \tc1 'i \tc2 ngak \tc3 lanamepa \tc4 'i \tc5 ngak \tc6 mi-nyampa \tc7 tang \tc8 nyampa
-\tr \tc0 great \tc1 OF \tc2 mantra \tc3 unsurpassable \tc4 OF \tc5 mantra \tc6 unequaled \tc7 and \tc8 equal
+\tr \tc0 རིག་པ་ \tc1 ཆེན་པོ \tc2 འི་ \tc3 སྔགས། \tc4 བླ་ན་མེད་པ \tc5 འི་ \tc6 སྔགས། \tc7 མི་མཉམ་པ་
+\tr \tc0 rigpa \tc1 chenpo \tc2 'i \tc3 ngak \tc4 lanamepa \tc5 'i \tc6 ngak \tc7 mi-nyampa
+\tr \tc0 knowledge \tc1 great \tc2 OF \tc3 mantra \tc4 unsurpassable \tc5 OF \tc6 mantra \tc7 unequaled
 \b
-\tr \tc0 ར་ \tc1 བྱེད་པ \tc2 འི་ \tc3 སྔགས། \tc4 སྡུག་བསྔལ་ \tc5 ཐམས་ཅད་ \tc6 རབ་ \tc7 ཏུ་ \tc8 ཞི་བ
-\tr \tc0 'r \tc1 chepa \tc2 'i \tc3 ngak \tc4 duk-ngal \tc5 thamché \tc6 rab \tc7 tu \tc8 zhiwa
-\tr \tc0 TO \tc1 do \tc2 OF \tc3 mantra \tc4 suffering \tc5 all \tc6 perfect \tc7 TO \tc8 pacify
+\tr \tc0 དང་ \tc1 མཉམ་པ \tc2 ར་ \tc3 བྱེད་པ \tc4 འི་ \tc5 སྔགས། \tc6 སྡུག་བསྔལ་ \tc7 ཐམས་ཅད་
+\tr \tc0 tang \tc1 nyampa \tc2 'r \tc3 chepa \tc4 'i \tc5 ngak \tc6 duk-ngal \tc7 thamché
+\tr \tc0 and \tc1 equal \tc2 TO \tc3 do \tc4 OF \tc5 mantra \tc6 suffering \tc7 all
 \b
-\tr \tc0 ར་ \tc1 བྱེད་པ \tc2 འི་ \tc3 སྔགས། \tc4 མི་རྫུན་པ \tc5 ས་ \tc6 ན་ \tc7 བདེན་པ \tc8 ར་
-\tr \tc0 'r \tc1 chepa \tc2 'i \tc3 ngak \tc4 midzünpé \tc5 ' \tc6 na \tc7 denpa \tc8 'r
-\tr \tc0 TO \tc1 do \tc2 OF \tc3 mantra \tc4 not-lying \tc5 SUBJ \tc6 because \tc7 truth \tc8 TO
+\tr \tc0 རབ་ \tc1 ཏུ་ \tc2 ཞི་བ \tc3 ར་ \tc4 བྱེད་པ \tc5 འི་ \tc6 སྔགས། \tc7 མི་རྫུན་པ
+\tr \tc0 rab \tc1 tu \tc2 zhiwa \tc3 'r \tc4 chepa \tc5 'i \tc6 ngak \tc7 midzünpé
+\tr \tc0 perfect \tc1 TO \tc2 pacify \tc3 TO \tc4 do \tc5 OF \tc6 mantra \tc7 not-lying
 \b
-\tr \tc0 ཤེས་པ \tc1 ར་ \tc2 བྱ་ \tc3 སྟེ།
-\tr \tc0 shepa \tc1 'r \tc2 cha \tc3 té
-\tr \tc0 know \tc1 TO \tc2 do \tc3 THEN
+\tr \tc0 ས་ \tc1 ན་ \tc2 བདེན་པ \tc3 ར་ \tc4 ཤེས་པ \tc5 ར་ \tc6 བྱ་ \tc7 སྟེ།
+\tr \tc0 ' \tc1 na \tc2 denpa \tc3 'r \tc4 shepa \tc5 'r \tc6 cha \tc7 té
+\tr \tc0 SUBJ \tc1 because \tc2 truth \tc3 TO \tc4 know \tc5 TO \tc6 do \tc7 THEN
 \sp Therefore, the mantra of the perfection of wisdom, the mantra of great knowledge, the unsurpassed mantra, the mantra that equalizes the unequaled, the mantra that thoroughly pacifies all suffering, should be known as truth since it is not false.
 \p
 \v 49
@@ -416,13 +436,17 @@
 \sp TADYATHA GATE GATE PARAGATE PARASAMGATE BODHI SVAHA
 \p
 \v 51
-\tr \tc0 ཤཱ་རིའི་བུ་ \tc1 བྱང་ཆུབ་སེམས་དཔའ་ \tc2 སེམས་དཔའ་ཆེན་པོ \tc3 ས་ \tc4 དེ་ལྟར་
-\tr \tc0 sharipu \tc1 changchub-sempa \tc2 sempa-chenpö \tc3 ' \tc4 tetar
-\tr \tc0 Shariputra \tc1 bodhisattva \tc2 mahasattva \tc3 SUBJ \tc4 like-this
+\tr \tc0 ཤཱ་རིའི་བུ་ \tc1 བྱང་ཆུབ་སེམས་དཔའ་ \tc2 སེམས་དཔའ་ཆེན་པོ \tc3 ས་
+\tr \tc0 sharipu \tc1 changchub-sempa \tc2 sempa-chenpö \tc3 '
+\tr \tc0 Shariputra \tc1 bodhisattva \tc2 mahasattva \tc3 SUBJ
 \b
-\tr \tc0 ཤེས་རབ་ \tc1 ཀྱི་ \tc2 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc3 ཟབ་མོ་ \tc4 ལ་ \tc5 བསླབ་པ \tc6 ར་ \tc7 བྱ \tc8 འོ།།
-\tr \tc0 sherab \tc1 kyi \tc2 pharol-tu-chinpa \tc3 zabmo \tc4 la \tc5 labpa \tc6 'r \tc7 cha \tc8 'o
-\tr \tc0 wisdom \tc1 OF \tc2 perfection \tc3 profound \tc4 TO \tc5 train \tc6 TO \tc7 do \tc8 END
+\tr \tc0 དེ་ལྟར་ \tc1 ཤེས་རབ་ \tc2 ཀྱི་ \tc3 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc4 ཟབ་མོ་ \tc5 ལ་ \tc6 བསླབ་པ \tc7 ར་
+\tr \tc0 tetar \tc1 sherab \tc2 kyi \tc3 pharol-tu-chinpa \tc4 zabmo \tc5 la \tc6 labpa \tc7 'r
+\tr \tc0 like-this \tc1 wisdom \tc2 OF \tc3 perfection \tc4 profound \tc5 TO \tc6 train \tc7 TO
+\b
+\tr \tc0 བྱ \tc1 འོ།།
+\tr \tc0 cha \tc1 'o
+\tr \tc0 do \tc1 END
 \sp “Shariputra, the bodhisattva mahasattva should train in the profound perfection of wisdom like that.”
 \p
 \v 52
@@ -432,25 +456,29 @@
 \sp Then the Bhagavan arose from that concentration
 \p
 \v 53
-\tr \tc0 བྱང་ཆུབ་སེམས་དཔའ་ \tc1 སེམས་དཔའ་ཆེན་པོ་ \tc2 འཕགས་པ་ \tc3 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་
-\tr \tc0 changchub-sempa \tc1 sempa-chenpo \tc2 phakpa \tc3 chenrezik-wangchuk
-\tr \tc0 bodhisattva \tc1 mahasattva \tc2 arya \tc3 Avalokiteshvara
+\tr \tc0 བྱང་ཆུབ་སེམས་དཔའ་ \tc1 སེམས་དཔའ་ཆེན་པོ་ \tc2 འཕགས་པ་
+\tr \tc0 changchub-sempa \tc1 sempa-chenpo \tc2 phakpa
+\tr \tc0 bodhisattva \tc1 mahasattva \tc2 arya
 \b
-\tr \tc0 ལ་ \tc1 ལེགས་ \tc2 སོ་ \tc3 ཞེས་བྱ་བ་ \tc4 བྱིན་ \tc5 ནས། \tc6 ལེགས་ \tc7 སོ། \tc8 །ལེགས་
-\tr \tc0 la \tc1 lek \tc2 so \tc3 zhechawa \tc4 chin \tc5 né \tc6 lek \tc7 so \tc8 lek
-\tr \tc0 TO \tc1 perfect \tc2 END \tc3 said \tc4 gave \tc5 THEN \tc6 perfect \tc7 END \tc8 perfect
+\tr \tc0 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ \tc1 ལ་ \tc2 ལེགས་ \tc3 སོ་ \tc4 ཞེས་བྱ་བ་ \tc5 བྱིན་ \tc6 ནས། \tc7 ལེགས་
+\tr \tc0 chenrezik-wangchuk \tc1 la \tc2 lek \tc3 so \tc4 zhechawa \tc5 chin \tc6 né \tc7 lek
+\tr \tc0 Avalokiteshvara \tc1 TO \tc2 perfect \tc3 END \tc4 said \tc5 gave \tc6 THEN \tc7 perfect
 \b
-\tr \tc0 སོ། \tc1 རིགས་ \tc2 ཀྱི་ \tc3 བུ། \tc4 དེ་ \tc5 དེ་ \tc6 བཞིན་ \tc7 ནོ།། \tc8 དེ་
-\tr \tc0 so \tc1 rik \tc2 kyi \tc3 pu \tc4 te \tc5 té \tc6 zhin \tc7 no \tc8 te
-\tr \tc0 END \tc1 lineage \tc2 OF \tc3 son \tc4 this \tc5 this \tc6 like \tc7 END \tc8 this
+\tr \tc0 སོ། \tc1 །ལེགས་ \tc2 སོ། \tc3 རིགས་ \tc4 ཀྱི་ \tc5 བུ། \tc6 དེ་ \tc7 དེ་
+\tr \tc0 so \tc1 lek \tc2 so \tc3 rik \tc4 kyi \tc5 pu \tc6 te \tc7 té
+\tr \tc0 END \tc1 perfect \tc2 END \tc3 lineage \tc4 OF \tc5 son \tc6 this \tc7 this
 \b
-\tr \tc0 དེ་ \tc1 བཞིན་ \tc2 ཏེ། \tc3 ཇི་ལྟར་ \tc4 ཁྱོད་ \tc5 ཀྱིས་ \tc6 བསྟན་པ་ \tc7 བཞིན་དུ་ \tc8 ཤེས་རབ་
-\tr \tc0 té \tc1 zhin \tc2 té \tc3 chitar \tc4 khyö \tc5 kyi \tc6 tenpa \tc7 zhintu \tc8 sherab
-\tr \tc0 this \tc1 like \tc2 THEN \tc3 like \tc4 you \tc5 SUBJ \tc6 indicated \tc7 like \tc8 wisdom
+\tr \tc0 བཞིན་ \tc1 ནོ།། \tc2 དེ་ \tc3 དེ་ \tc4 བཞིན་ \tc5 ཏེ། \tc6 ཇི་ལྟར་ \tc7 ཁྱོད་
+\tr \tc0 zhin \tc1 no \tc2 te \tc3 té \tc4 zhin \tc5 té \tc6 chitar \tc7 khyö
+\tr \tc0 like \tc1 END \tc2 this \tc3 this \tc4 like \tc5 THEN \tc6 like \tc7 you
 \b
-\tr \tc0 ཀྱི་ \tc1 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc2 ཟབ་མོ་ \tc3 ལ་ \tc4 སྤྱད་པ \tc5 ར་ \tc6 བྱ་ \tc7 སྟེ།
-\tr \tc0 kyi \tc1 pharol-tu-chinpa \tc2 zabmo \tc3 la \tc4 chepa \tc5 'r \tc6 cha \tc7 té
-\tr \tc0 OF \tc1 perfection \tc2 profound \tc3 TO \tc4 practice \tc5 TO \tc6 do \tc7 THEN
+\tr \tc0 ཀྱིས་ \tc1 བསྟན་པ་ \tc2 བཞིན་དུ་ \tc3 ཤེས་རབ་ \tc4 ཀྱི་ \tc5 ཕ་རོལ་ཏུ་ཕྱིན་པ་ \tc6 ཟབ་མོ་ \tc7 ལ་
+\tr \tc0 kyi \tc1 tenpa \tc2 zhintu \tc3 sherab \tc4 kyi \tc5 pharol-tu-chinpa \tc6 zabmo \tc7 la
+\tr \tc0 SUBJ \tc1 indicated \tc2 like \tc3 wisdom \tc4 OF \tc5 perfection \tc6 profound \tc7 TO
+\b
+\tr \tc0 སྤྱད་པ \tc1 ར་ \tc2 བྱ་ \tc3 སྟེ།
+\tr \tc0 chepa \tc1 'r \tc2 cha \tc3 té
+\tr \tc0 practice \tc1 TO \tc2 do \tc3 THEN
 \sp and "Well said", commended the bodhisattva mahasattva arya Avalokiteshvara saying: “Well said, well said, son of the lineage, it is like that. It is like that; one should practice the profound perfection of wisdom just as you have indicated;
 \p
 \v 54
@@ -466,21 +494,25 @@
 \sp The Bhagavan having thus spoken,
 \p
 \v 56
-\tr \tc0 ཚེ་དང་ལྡན་པ་ \tc1 ཤཱ་ར་དྭ་ཏིའི་བུ་ \tc2 དང་། \tc3 བྱང་ཆུབ་སེམས་དཔའ་
-\tr \tc0 tsétang-denpa \tc1 sharadatibu \tc2 tang \tc3 changchub-sempa
-\tr \tc0 venerable \tc1 Sharadvatiputra \tc2 and \tc3 bodhisattva
+\tr \tc0 ཚེ་དང་ལྡན་པ་ \tc1 ཤཱ་ར་དྭ་ཏིའི་བུ་ \tc2 དང་།
+\tr \tc0 tsétang-denpa \tc1 sharadatibu \tc2 tang
+\tr \tc0 venerable \tc1 Sharadvatiputra \tc2 and
 \b
-\tr \tc0 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ \tc1 དང་། \tc2 ཐམས་ཅད་ \tc3 དང་ \tc4 ལྡན་པ \tc5 འི་ \tc6 འཁོར་ \tc7 དེ་དག་ \tc8 དང་།
-\tr \tc0 chenrezik-wangchuk \tc1 tang \tc2 thamché \tc3 tang \tc4 denpa \tc5 'i \tc6 khor \tc7 tetak \tc8 tang
-\tr \tc0 Avalokiteshvara \tc1 and \tc2 all \tc3 and \tc4 are-together \tc5 OF \tc6 retinue \tc7 those \tc8 and
+\tr \tc0 བྱང་ཆུབ་སེམས་དཔའ་ \tc1 སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ \tc2 དང་། \tc3 ཐམས་ཅད་ \tc4 དང་
+\tr \tc0 changchub-sempa \tc1 chenrezik-wangchuk \tc2 tang \tc3 thamché \tc4 tang
+\tr \tc0 bodhisattva \tc1 Avalokiteshvara \tc2 and \tc3 all \tc4 and
 \b
-\tr \tc0 ལྷ་ \tc1 དང་། \tc2 མི་ \tc3 དང་། \tc4 ལྷ་མ་ཡིན་ \tc5 དང་། \tc6 དྲི་ཟ \tc7 ར་ \tc8 བཅས་པ
-\tr \tc0 lha \tc1 tang \tc2 mi \tc3 tang \tc4 lha-mayin \tc5 tang \tc6 triza \tc7 'r \tc8 chepa
-\tr \tc0 god \tc1 and \tc2 human \tc3 and \tc4 asura \tc5 and \tc6 gandharva \tc7 TO \tc8 are-together
+\tr \tc0 ལྡན་པ \tc1 འི་ \tc2 འཁོར་ \tc3 དེ་དག་ \tc4 དང་། \tc5 ལྷ་ \tc6 དང་། \tc7 མི་
+\tr \tc0 denpa \tc1 'i \tc2 khor \tc3 tetak \tc4 tang \tc5 lha \tc6 tang \tc7 mi
+\tr \tc0 are-together \tc1 OF \tc2 retinue \tc3 those \tc4 and \tc5 god \tc6 and \tc7 human
 \b
-\tr \tc0 འི་ \tc1 འཇིག་རྟེན་ \tc2 ཡི་རངས་ \tc3 ཏེ།
-\tr \tc0 'i \tc1 jikten \tc2 yirang \tc3 té
-\tr \tc0 OF \tc1 world \tc2 rejoice \tc3 THEN
+\tr \tc0 དང་། \tc1 ལྷ་མ་ཡིན་ \tc2 དང་། \tc3 དྲི་ཟ \tc4 ར་ \tc5 བཅས་པ \tc6 འི་ \tc7 འཇིག་རྟེན་
+\tr \tc0 tang \tc1 lha-mayin \tc2 tang \tc3 triza \tc4 'r \tc5 chepa \tc6 'i \tc7 jikten
+\tr \tc0 and \tc1 asura \tc2 and \tc3 gandharva \tc4 TO \tc5 are-together \tc6 OF \tc7 world
+\b
+\tr \tc0 ཡི་རངས་ \tc1 ཏེ།
+\tr \tc0 yirang \tc1 té
+\tr \tc0 rejoice \tc1 THEN
 \sp the venerable Sharadvati putra, the bodhisattva mahasattva arya Avalokiteshvara, and those in the retinue in their entirety along with the world of gods, humans, asuras, and gandharvas rejoiced
 \p
 \v 57

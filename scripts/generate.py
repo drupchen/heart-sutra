@@ -32,6 +32,12 @@ def gen_tables(name, orig, trans):
                 char_count += update_char_count(p_word, w_word, w)
                 w += 1
                 if char_count >= line_len or table_w_cur >= table_w_max:
+                    # went too far, so remove last word of sub_table and decrement w
+                    for i in [0, 1, 2]:
+                        sub_table[i] = sub_table[i][:-2]
+                    w -= 1
+
+                    # save sub_table and reinitialize vars
                     sub_tables.append(sub_table)
                     sub_table = [['\\tr'], ['\\tr'], ['\\tr']]
                     char_count = 0
