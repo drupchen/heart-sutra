@@ -1,17 +1,17 @@
 from pathlib import Path
+import re
 
 
-def gen_tables(name, orig, trans):
+def gen_tables(name, trans):
     line_len = 60  # chars in latin alphabet
 
-    orig = Path(f'../original/0-original/{name}_{orig}.txt').read_text().strip().split('\n')
-    phonetics = Path(f'../original/1-phonetics/{name}_{trans}.txt').read_text().strip().split('\n')
-    w2w = Path(f'../original/2-word-for-word/{name}_{trans}.txt').read_text().strip().split('\n')
-    literal = Path(f'../original/3-litteral/{name}_{trans}.txt').read_text().strip().split('\n')
+    w2w_path = Path(f'../original/3-word-for-word/{name}_{trans}.csv')
+    orig, phonetics, w2w = parse_w2w(w2w_path.read_text())
+    literal = Path(f'../original/4-litteral/{name}_{trans}.txt').read_text().strip().split('\n')
 
     tables = []
     for line in range(len(orig)):
-        o_els, p_els, w_els = orig[line].split(' '), phonetics[line].split(' '), w2w[line].split(' ')
+        o_els, p_els, w_els = orig[line], phonetics[line], w2w[line]
         sub_tables = []
         sub_table = [['\\tr'], ['\\tr'], ['\\tr']]
         char_count = 0
@@ -21,7 +21,7 @@ def gen_tables(name, orig, trans):
         while w <= len(o_els)-1:
             o_word, p_word, w_word = o_els[w], p_els[w], w_els[w]
             if w == 0:
-                char_count += update_char_count(p_word, w_word, w)
+                char_count += update_char_count(p_word, w_word)
 
             if char_count <= line_len or table_w_cur <= table_w_max:
                 for num, x in enumerate([o_word, p_word, w_word]):
@@ -29,9 +29,9 @@ def gen_tables(name, orig, trans):
                     sub_table[num].append(x)
                 if table_w_cur < table_w_max:
                     table_w_cur += 1
-                char_count += update_char_count(p_word, w_word, w)
+                char_count += update_char_count(p_word, w_word)
                 w += 1
-                if char_count >= line_len or table_w_cur >= table_w_max:
+                if char_count > line_len or table_w_cur > table_w_max:
                     # went too far, so remove last word of sub_table and decrement w
                     for i in [0, 1, 2]:
                         sub_table[i] = sub_table[i][:-2]
@@ -60,12 +60,26 @@ def gen_tables(name, orig, trans):
     out_file.write_text(total)
 
 
-def update_char_count(word1, word2, w):
+def update_char_count(word1, word2):
     if len(word1) > len(word2):
         return len(word1)
     return len(word2)
 
 
+def parse_w2w(dump):
+    dump = re.sub(r'\n,+\n', '\n\n', dump)
+    chunks = dump.strip().split('\n\n')
+    o, p, w = [], [], []
+    for c in chunks:
+        a, b, c = c.split('\n')
+        a, b, c = a.strip(','), b.strip(','), c.strip(',')
+        a, b, c = a.split(','), b.split(','), c.split(',')
+        o.append(a)
+        p.append(b)
+        w.append(c)
+    return o, p, w
+
+
 if __name__ == '__main__':
-    file, orig_lang, trans_lang = 'heart-sutra', 'BO', 'EN'
-    gen_tables(file, orig_lang, trans_lang)
+    file, trans_lang = 'heart-sutra', 'EN'
+    gen_tables(file, trans_lang)
