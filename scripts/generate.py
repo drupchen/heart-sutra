@@ -25,23 +25,29 @@ def gen_tables(name, orig, trans):
 
             if char_count <= line_len or table_w_cur <= table_w_max:
                 for num, x in enumerate([o_word, p_word, w_word]):
-                    sub_table[num].append(f'\\tc{table_w_cur + 1}')
+                    sub_table[num].append(f'\\tc{table_w_cur}')
                     sub_table[num].append(x)
+                if table_w_cur < table_w_max:
                     table_w_cur += 1
                 char_count += update_char_count(p_word, w_word, w)
                 w += 1
+                if char_count >= line_len or table_w_cur >= table_w_max:
+                    sub_tables.append(sub_table)
+                    sub_table = [['\\tr'], ['\\tr'], ['\\tr']]
+                    char_count = 0
+                    table_w_cur = 0
             else:
                 sub_tables.append(sub_table)
                 sub_table = [['\\tr'], ['\\tr'], ['\\tr']]
                 char_count = 0
                 table_w_cur = 0
 
-        if sub_table:
+        if sub_table != [['\\tr'], ['\\tr'], ['\\tr']]:
             sub_tables.append(sub_table)
 
         print('')
         table = '\n\\b\n'.join(['\n'.join([' '.join(a) for a in sub]) for sub in sub_tables])
-        tables.append(f'\p\n\\v {line+1}\n\\sp {literal[line]}\n{table}')
+        tables.append(f'\p\n\\v {line+1}\n{table}\n\\sp {literal[line]}')
 
     total = '\n'.join(tables)
     out_file = Path(f'../USFM/{name}_{trans}_tables.txt')
