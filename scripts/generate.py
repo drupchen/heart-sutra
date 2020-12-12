@@ -58,9 +58,10 @@ def gen_tables(name, trans):
 
         print('')
         table = '\n\\b\n'.join(['\n'.join([' '.join(a) for a in sub]) for sub in sub_tables])
-        tables.append(f'\p\n\\v {line+1}\n{table}\n\\sp {literal[line]}')
+        tables.append(f'\mi\n\\v {line+1}\n{table}\n\\sp {literal[line]}')
 
-    total = '\n'.join(tables)
+    header = '\id word_for_word\n'
+    total = header + '\n'.join(tables)
     out_file = Path(f'../USFM/{name}_{trans}_tables.txt')
     out_file.write_text(total)
 
