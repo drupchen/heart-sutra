@@ -58,7 +58,7 @@ def gen_tables(name, trans):
 
         print('')
         table = '\n\\b\n'.join(['\n'.join([' '.join(a) for a in sub]) for sub in sub_tables])
-        tables.append(f'\mi\n\\v {line+1}\n{table}\n\\sp {literal[line]}')
+        tables.append(f'\mi\n\\v {line+1}\n{table}\n\\iot {literal[line]}')
 
     header = '\id word_for_word\n'
     total = header + '\n'.join(tables)
