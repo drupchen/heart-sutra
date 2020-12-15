@@ -2,12 +2,11 @@ from pathlib import Path
 import re
 
 
-def gen_tables(name, trans):
+def gen_tables(csv_path, literal_path, out_file):
     line_len = 60  # chars in latin alphabet
 
-    w2w_path = Path(f'../original/3-word-for-word/{name}_{trans}.csv')
-    orig, phonetics, w2w = parse_w2w(w2w_path.read_text())
-    literal = Path(f'../original/4-litteral/{name}_{trans}.txt').read_text().strip().split('\n')
+    orig, phonetics, w2w = parse_w2w(csv_path.read_text())
+    literal = literal_path.read_text().strip().split('\n')
 
     tables = []
     for line in range(len(orig)):
@@ -56,14 +55,12 @@ def gen_tables(name, trans):
         if sub_table != [['\\tr'], ['\\tr'], ['\\tr']]:
             sub_tables.append(sub_table)
 
-        print('')
         table = '\n\\b\n'.join(['\n'.join([' '.join(a) for a in sub]) for sub in sub_tables])
         tables.append(f'\mi\n\\v {line+1}\n{table}\n\\iot {literal[line]}')
 
     header = '\id word_for_word\n'
     total = header + '\n'.join(tables)
-    out_file = Path(f'../USFM/{name}_{trans}_tables.txt')
-    out_file.write_text(total)
+    return total
 
 
 def update_char_count(word1, word2):
@@ -86,6 +83,16 @@ def parse_w2w(dump):
     return o, p, w
 
 
-if __name__ == '__main__':
+def main():
     file, trans_lang = 'heart-sutra', 'EN'
-    gen_tables(file, trans_lang)
+
+    csv_path = Path(f'../original/3-word-for-word/{file}_{trans_lang}.csv')
+    literal_path = Path(f'../original/4-litteral/{file}_{trans_lang}.txt')
+    out_file = Path(f'../USFM/B002_{file}_{trans_lang}_tables.txt')
+
+    out = gen_tables(csv_path, literal_path, out_file)
+    out_file.write_text(out)
+
+
+if __name__ == '__main__':
+    main()

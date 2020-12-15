@@ -53,11 +53,50 @@ def parse_text(dump, commentary=False):
 
 
 def format_usfm(doc):
-    pass
+    par_break = '\n\p\n'
+    line_break = '\\b'
+    verse = '\\v'
+    verse_mark = '\q1'
+
+    usfm = []
+    for par in list(doc.values()):
+        paragr = []
+        lines = list(par.values())
+        for l in lines:
+            begin = ''
+
+            if 'poetry' in l and 'v_count' in l:
+                v = f'{verse} {l["v_count"]}'
+                begin = f'{verse_mark}\n{v}'
+            elif 'poetry' in l:
+                begin = verse_mark
+            elif 'v_count' in l:
+                begin = f'{verse} {l["v_count"]}'
+
+            if begin:
+                line = f'{begin} {l["text"]}'
+            else:
+                line = l['text']
+            paragr.append(line)
+
+            if 'line_break' in l:
+                paragr.append(line_break)
+        usfm.append('\n'.join(paragr))
+    usfm = par_break.join(usfm)
+
+    return usfm
+
+
+def main():
+    file, trans_lang = 'heart-sutra', 'EN'
+    dump = Path(f'../original/5-translation/{file}_{trans_lang}.txt').read_text().strip()
+
+    parsed = parse_text(dump)
+    usfm = format_usfm(parsed)
+
+    outpath = Path(f'../USFM/B001_{file}_{trans_lang}.txt')
+    outpath.write_text(usfm)
 
 
 if __name__ == '__main__':
-    file, trans_lang = 'heart-sutra', 'EN'
-    dump = Path(f'../original/5-translation/{file}_{trans_lang}.txt').read_text().strip()
-    parsed = parse_text(dump)
-    print('')
+    main()
