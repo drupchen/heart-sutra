@@ -52,7 +52,8 @@ def parse_text(dump, commentary=False):
     return document
 
 
-def format_usfm(doc):
+def format_usfm(doc, lang):
+    id = f'\id trans_{lang}\n'
     par_break = '\n\p\n'
     line_break = '\\b'
     verse = '\\v'
@@ -82,7 +83,7 @@ def format_usfm(doc):
             if 'line_break' in l:
                 paragr.append(line_break)
         usfm.append('\n'.join(paragr))
-    usfm = par_break.join(usfm)
+    usfm = id + par_break.join(usfm)
 
     return usfm
 
@@ -92,9 +93,9 @@ def main():
     dump = Path(f'../original/5-translation/{file}_{trans_lang}.txt').read_text().strip()
 
     parsed = parse_text(dump)
-    usfm = format_usfm(parsed)
+    usfm = format_usfm(parsed, trans_lang)
 
-    outpath = Path(f'../USFM/B001_{file}_{trans_lang}.txt')
+    outpath = Path(f'../USFM/{file}_{trans_lang}.txt')
     outpath.write_text(usfm)
 
 
