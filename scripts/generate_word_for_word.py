@@ -88,7 +88,7 @@ def main():
 
     csv_path = Path(f'../original/3-word-for-word/{file}_{trans_lang}.csv')
     literal_path = Path(f'../original/4-litteral/{file}_{trans_lang}.txt')
-    out_file = Path(f'../USFM/B002_{file}_{trans_lang}_tables.txt')
+    out_file = Path(f'../USFM/{file}_{trans_lang}_tables.txt')
 
     out = gen_tables(csv_path, literal_path, out_file)
     out_file.write_text(out)
