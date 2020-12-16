@@ -1,6 +1,7 @@
 \id word_for_word
 \mi
 \v 1 \iot In Sanskrit: bhagavatï-prajñäpäramitä-hridaya; In Tibetan: The Bhagavati, the Heart of the Perfection of Wisdom \iot*
+\b
 \tr \tc0 \ow རྒྱ་གར་ \ow* \tc1 \ow སྐད་ \ow* \tc2 \ow དུ། \ow* \tc3 \ow བྷ་ག་ཝ་ཏི་པྲཛྙཱ་པ་ར་མི་ཏ་ཧྲྀ་ད་ཡ། \ow*
 \tr \tc0 \pw gyakar \pw* \tc1 \pw ké \pw* \tc2 \pw tu \pw* \tc3 \pw bhagavati prajnya paramita hridaya \pw*
 \tr \tc0 \ww India \ww* \tc1 \ww language \ww* \tc2 \ww TO \ww* \tc3 \ww bhagavatï prajpäramitä hridaya \ww*
