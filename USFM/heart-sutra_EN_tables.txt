@@ -1,6 +1,6 @@
 \id word_for_word
 \mi
-\v 1
+\v 1 \iot In Sanskrit: bhagavatï-prajñäpäramitä-hridaya; In Tibetan: The Bhagavati, the Heart of the Perfection of Wisdom
 \tr \tc0 \ow རྒྱ་གར་ \ow* \tc1 \ow སྐད་ \ow* \tc2 \ow དུ། \ow* \tc3 \ow བྷ་ག་ཝ་ཏི་པྲཛྙཱ་པ་ར་མི་ཏ་ཧྲྀ་ད་ཡ། \ow*
 \tr \tc0 \pw gyakar \pw* \tc1 \pw ké \pw* \tc2 \pw tu \pw* \tc3 \pw bhagavati prajnya paramita hridaya \pw*
 \tr \tc0 \ww India \ww* \tc1 \ww language \ww* \tc2 \ww TO \ww* \tc3 \ww bhagavatï prajpäramitä hridaya \ww*
@@ -12,15 +12,15 @@
 \tr \tc0 \ow སྙིང་པོ། \ow* \tc1 \ow བམ་པོ་ \ow* \tc2 \ow གཅིག་ \ow* \tc3 \ow གོ། \ow*
 \tr \tc0 \pw nyingpo \pw* \tc1 \pw pampo \pw* \tc2 \pw chik \pw* \tc3 \pw ko \pw*
 \tr \tc0 \ww heart \ww* \tc1 \ww fascicle \ww* \tc2 \ww one \ww* \tc3 \ww END \ww*
-\iot In Sanskrit: bhagavatï-prajñäpäramitä-hridaya; In Tibetan: The Bhagavati, the Heart of the Perfection of Wisdom
+
 \mi
-\v 2
+\v 2 \iot Thus did I hear. At one time,
 \tr \tc0 \ow འདི་སྐད་ \ow* \tc1 \ow བདག་ \ow* \tc2 \ow གིས་ \ow* \tc3 \ow ཐོས་པ་ \ow* \tc4 \ow དུས་ \ow* \tc5 \ow གཅིག་ \ow* \tc6 \ow ན། \ow*
 \tr \tc0 \pw diké \pw* \tc1 \pw da \pw* \tc2 \pw ki \pw* \tc3 \pw thöpa \pw* \tc4 \pw tü \pw* \tc5 \pw chik \pw* \tc6 \pw na \pw*
 \tr \tc0 \ww thus \ww* \tc1 \ww I \ww* \tc2 \ww SUBJ \ww* \tc3 \ww heard \ww* \tc4 \ww time \ww* \tc5 \ww one \ww* \tc6 \ww TO \ww*
-\iot Thus did I hear. At one time,
+
 \mi
-\v 3
+\v 3 \iot the Bhagavan was staying at Mass of Vultures Mountain in Rajagriha together with a great community of monks and a great community of bodhisattvas.
 \tr \tc0 \ow བཅོམ་ལྡན་འདས་ \ow* \tc1 \ow རྒྱལ་པོ འི་ ཁབ་ \ow* \tc2 \ow བྱ་རྒོད་ \ow* \tc3 \ow ཕུང་པོ \ow* \tc4 \ow འི་ \ow* \tc5 \ow རི་ \ow* \tc6 \ow ལ་ \ow*
 \tr \tc0 \pw chomdendé \pw* \tc1 \pw gyalpo'i khab \pw* \tc2 \pw chagö \pw* \tc3 \pw phungpo \pw* \tc4 \pw 'i \pw* \tc5 \pw ri \pw* \tc6 \pw la \pw*
 \tr \tc0 \ww Bhagavan \ww* \tc1 \ww Rajagriha \ww* \tc2 \ww vulture \ww* \tc3 \ww mass \ww* \tc4 \ww OF \ww* \tc5 \ww mountain \ww* \tc6 \ww TO \ww*
@@ -32,9 +32,9 @@
 \tr \tc0 \ow དང་ \ow* \tc1 \ow ཐབས་ཅིག་ \ow* \tc2 \ow ཏུ་ \ow* \tc3 \ow བཞུགས་ \ow* \tc4 \ow ཏེ། \ow*
 \tr \tc0 \pw tang \pw* \tc1 \pw thap chik \pw* \tc2 \pw tu \pw* \tc3 \pw zhuk \pw* \tc4 \pw té \pw*
 \tr \tc0 \ww and \ww* \tc1 \ww together \ww* \tc2 \ww OF \ww* \tc3 \ww dwell \ww* \tc4 \ww THEN \ww*
-\iot the Bhagavan was staying at Mass of Vultures Mountain in Rajagriha together with a great community of monks and a great community of bodhisattvas.
+
 \mi
-\v 4
+\v 4 \iot At that time, the Bhagavan absorbed himself in the concentration on the categories of phenomena called “Profound Perception.”
 \tr \tc0 \ow དེ \ow* \tc1 \ow འི་ \ow* \tc2 \ow ཚེ་ \ow* \tc3 \ow བཅོམ་ལྡན་འདས་ \ow* \tc4 \ow ཟབ་མོ་ \ow* \tc5 \ow སྣང་བ་ \ow* \tc6 \ow ཞེས་ བྱ་བ \ow* \tc7 \ow འི་ \ow*
 \tr \tc0 \pw té \pw* \tc1 \pw 'i \pw* \tc2 \pw tsé \pw* \tc3 \pw chomdendé \pw* \tc4 \pw zabmo \pw* \tc5 \pw nangwa \pw* \tc6 \pw zhe chawa \pw* \tc7 \pw 'i \pw*
 \tr \tc0 \ww that \ww* \tc1 \ww OF \ww* \tc2 \ww time \ww* \tc3 \ww Bhagavan \ww* \tc4 \ww profound \ww* \tc5 \ww perception \ww* \tc6 \ww called \ww* \tc7 \ww OF \ww*
@@ -42,9 +42,9 @@
 \tr \tc0 \ow ཆོས་ \ow* \tc1 \ow ཀྱི་ \ow* \tc2 \ow རྣམ་གྲངས་ \ow* \tc3 \ow ཀྱི་ \ow* \tc4 \ow ཏིང་ངེ་འཛིན་ \ow* \tc5 \ow ལ་ \ow* \tc6 \ow སྙོམས་པ ར་ ཞུགས་ \ow* \tc7 \ow སོ།། \ow*
 \tr \tc0 \pw chö \pw* \tc1 \pw kyi \pw* \tc2 \pw namtrang \pw* \tc3 \pw kyi \pw* \tc4 \pw ting ngédzin \pw* \tc5 \pw la \pw* \tc6 \pw nyompa r zhuk \pw* \tc7 \pw so \pw*
 \tr \tc0 \ww phenomena \ww* \tc1 \ww OF \ww* \tc2 \ww category \ww* \tc3 \ww OF \ww* \tc4 \ww concentration \ww* \tc5 \ww TO \ww* \tc6 \ww absorbed \ww* \tc7 \ww END \ww*
-\iot At that time, the Bhagavan absorbed himself in the concentration on the categories of phenomena called “Profound Perception.”
+
 \mi
-\v 5
+\v 5 \iot Also, at that time, the bodhisattva mahasattva arya Avalokiteshvara looked at the practice of the profound perfection of wisdom itself and
 \tr \tc0 \ow ཡང་ \ow* \tc1 \ow དེ \ow* \tc2 \ow འི་ \ow* \tc3 \ow ཚེ་ \ow* \tc4 \ow བྱང་ཆུབ་ སེམས་དཔའ་ \ow* \tc5 \ow སེམས་དཔའ་ ཆེན་པོ་ \ow* \tc6 \ow འཕགས་པ་ \ow*
 \tr \tc0 \pw yang \pw* \tc1 \pw té \pw* \tc2 \pw 'i \pw* \tc3 \pw tsé \pw* \tc4 \pw changchub sempa \pw* \tc5 \pw sempa chenpo \pw* \tc6 \pw phakpa \pw*
 \tr \tc0 \ww and \ww* \tc1 \ww that \ww* \tc2 \ww OF \ww* \tc3 \ww time \ww* \tc4 \ww bodhisattva \ww* \tc5 \ww mahasattva \ww* \tc6 \ww arya \ww*
@@ -56,9 +56,9 @@
 \tr \tc0 \ow སྤྱོད་པ་ \ow* \tc1 \ow ཉིད་ \ow* \tc2 \ow ལ་ \ow* \tc3 \ow རྣམ་པ ར་ \ow* \tc4 \ow བལྟ་ \ow* \tc5 \ow ཞིང་ \ow*
 \tr \tc0 \pw chöpa \pw* \tc1 \pw nyi \pw* \tc2 \pw la \pw* \tc3 \pw nampa r \pw* \tc4 \pw ta \pw* \tc5 \pw zhing \pw*
 \tr \tc0 \ww practice \ww* \tc1 \ww itself \ww* \tc2 \ww TO \ww* \tc3 \ww in detail \ww* \tc4 \ww look \ww* \tc5 \ww and \ww*
-\iot Also, at that time, the bodhisattva mahasattva arya Avalokiteshvara looked at the practice of the profound perfection of wisdom itself and
+
 \mi
-\v 6
+\v 6 \iot saw that the five aggregates as well are empty of inherent nature.
 \tr \tc0 \ow ཕུང་པོ་ \ow* \tc1 \ow ལྔ་པོ་ \ow* \tc2 \ow དེ་དག་ \ow* \tc3 \ow ལ་ \ow* \tc4 \ow ཡང་ \ow* \tc5 \ow རང་བཞིན་ \ow* \tc6 \ow གྱིས་ \ow* \tc7 \ow སྟོང་པ \ow* \tc8 \ow ར་ \ow*
 \tr \tc0 \pw phungpo \pw* \tc1 \pw ngapo \pw* \tc2 \pw tetak \pw* \tc3 \pw la \pw* \tc4 \pw yang \pw* \tc5 \pw rangzhin \pw* \tc6 \pw kyi \pw* \tc7 \pw tongpa \pw* \tc8 \pw r \pw*
 \tr \tc0 \ww aggregate \ww* \tc1 \ww the five \ww* \tc2 \ww those \ww* \tc3 \ww TO \ww* \tc4 \ww also \ww* \tc5 \ww nature \ww* \tc6 \ww SUBJ \ww* \tc7 \ww empty \ww* \tc8 \ww TO \ww*
@@ -66,9 +66,9 @@
 \tr \tc0 \ow རྣམ་པ ར་ \ow* \tc1 \ow བལྟ \ow* \tc2 \ow འོ།། \ow*
 \tr \tc0 \pw nampar \pw* \tc1 \pw ta \pw* \tc2 \pw o \pw*
 \tr \tc0 \ww in detail \ww* \tc1 \ww look \ww* \tc2 \ww END \ww*
-\iot saw that the five aggregates as well are empty of inherent nature.
+
 \mi
-\v 7
+\v 7 \iot Then, through the power of Buddha, the venerable Shariputra said this to the bodhisattva mahasattva arya Avalokiteshvara:
 \tr \tc0 \ow དེ་ནས་ \ow* \tc1 \ow སངས་རྒྱས་ \ow* \tc2 \ow ཀྱི་ \ow* \tc3 \ow མཐུ \ow* \tc4 \ow ས། \ow* \tc5 \ow ཚེ་ དང་ ལྡན་པ་ \ow* \tc6 \ow ཤཱ་རིའི་བུ \ow* \tc7 \ow ས་ \ow*
 \tr \tc0 \pw tené \pw* \tc1 \pw sangyé \pw* \tc2 \pw kyi \pw* \tc3 \pw thü \pw* \tc4 \pw  \pw* \tc5 \pw tsé tang denpa \pw* \tc6 \pw sharipü \pw* \tc7 \pw  \pw*
 \tr \tc0 \ww then \ww* \tc1 \ww Buddha \ww* \tc2 \ww OF \ww* \tc3 \ww power \ww* \tc4 \ww SUBJ \ww* \tc5 \ww venerable \ww* \tc6 \ww Shariputra \ww* \tc7 \ww SUBJ \ww*
@@ -80,9 +80,9 @@
 \tr \tc0 \ow འདི་སྐད་ ཅེས་ \ow* \tc1 \ow སྨྲས་ \ow* \tc2 \ow སོ།། \ow*
 \tr \tc0 \pw diké ché \pw* \tc1 \pw mé \pw* \tc2 \pw so \pw*
 \tr \tc0 \ww in these words \ww* \tc1 \ww said \ww* \tc2 \ww END \ww*
-\iot Then, through the power of Buddha, the venerable Shariputra said this to the bodhisattva mahasattva arya Avalokiteshvara:
+
 \mi
-\v 8
+\v 8 \iot “How should any son of the lineage or daugther of the lineage train who wishes to practice the activity of the profound perfection of wisdom?” He said that, and
 \tr \tc0 \ow རིགས་ \ow* \tc1 \ow ཀྱི་ \ow* \tc2 \ow བུ \ow* \tc3 \ow འམ་ \ow* \tc4 \ow རིགས་ \ow* \tc5 \ow ཀྱི་ \ow* \tc6 \ow བུ་མོ་ \ow* \tc7 \ow གང་ ལ་ལ་ \ow* \tc8 \ow ཤེས་རབ་ \ow* \tc9 \ow ཀྱི་ \ow*
 \tr \tc0 \pw rik \pw* \tc1 \pw kyi \pw* \tc2 \pw pu \pw* \tc3 \pw 'am \pw* \tc4 \pw rik \pw* \tc5 \pw kyi \pw* \tc6 \pw pumo \pw* \tc7 \pw gang lala \pw* \tc8 \pw sherab \pw* \tc9 \pw kyi \pw*
 \tr \tc0 \ww lineage \ww* \tc1 \ww OF \ww* \tc2 \ww son \ww* \tc3 \ww OR \ww* \tc4 \ww lineage \ww* \tc5 \ww OF \ww* \tc6 \ww daugther \ww* \tc7 \ww any \ww* \tc8 \ww wisdom \ww* \tc9 \ww OF \ww*
@@ -94,9 +94,9 @@
 \tr \tc0 \ow ས་ \ow* \tc1 \ow ཇི་ལྟར་ \ow* \tc2 \ow བསླབ་པ \ow* \tc3 \ow ར་ \ow* \tc4 \ow བྱ། \ow* \tc5 \ow དེ་སྐད་ ཅེས་ \ow* \tc6 \ow སྨྲས་པ་ \ow* \tc7 \ow དང་། \ow*
 \tr \tc0 \pw  \pw* \tc1 \pw chitar \pw* \tc2 \pw labpa \pw* \tc3 \pw r \pw* \tc4 \pw cha \pw* \tc5 \pw teké ché \pw* \tc6 \pw mepa \pw* \tc7 \pw tang \pw*
 \tr \tc0 \ww SUBJ \ww* \tc1 \ww how \ww* \tc2 \ww train \ww* \tc3 \ww TO \ww* \tc4 \ww do \ww* \tc5 \ww in these words \ww* \tc6 \ww said \ww* \tc7 \ww and \ww*
-\iot “How should any son of the lineage or daugther of the lineage train who wishes to practice the activity of the profound perfection of wisdom?” He said that, and
+
 \mi
-\v 9
+\v 9 \iot the bodhisattva mahasattva arya Avalokiteshvara said this to the venerable Sharadvati putra.
 \tr \tc0 \ow བྱང་ཆུབ་ སེམས་དཔའ་ \ow* \tc1 \ow སེམས་དཔའ་ ཆེན་པོ་ \ow* \tc2 \ow འཕགས་པ་ \ow*
 \tr \tc0 \pw changchub sempa \pw* \tc1 \pw sempa chenpo \pw* \tc2 \pw phakpa \pw*
 \tr \tc0 \ww bodhisattva \ww* \tc1 \ww mahasattva \ww* \tc2 \ww arya \ww*
@@ -108,9 +108,9 @@
 \tr \tc0 \ow འདི་སྐད་ ཅེས་ \ow* \tc1 \ow སྨྲས་ \ow* \tc2 \ow སོ།། \ow*
 \tr \tc0 \pw diké ché \pw* \tc1 \pw mé \pw* \tc2 \pw so \pw*
 \tr \tc0 \ww in these words \ww* \tc1 \ww said \ww* \tc2 \ww END \ww*
-\iot the bodhisattva mahasattva arya Avalokiteshvara said this to the venerable Sharadvati putra.
+
 \mi
-\v 10
+\v 10 \iot “Shariputra, any son of the lineage or daughter of the lineage who wishes to practice the activity of the profound perfection of wisdom should look at it like this,
 \tr \tc0 \ow ཤཱ་རིའི་བུ་ \ow* \tc1 \ow རིགས་ \ow* \tc2 \ow ཀྱི་ \ow* \tc3 \ow བུ \ow* \tc4 \ow འམ་ \ow* \tc5 \ow རིགས་ \ow* \tc6 \ow ཀྱི་ \ow* \tc7 \ow བུ་མོ་ \ow*
 \tr \tc0 \pw sharipu \pw* \tc1 \pw rik \pw* \tc2 \pw kyi \pw* \tc3 \pw pu \pw* \tc4 \pw 'am \pw* \tc5 \pw rik \pw* \tc6 \pw kyi \pw* \tc7 \pw pumo \pw*
 \tr \tc0 \ww Shariputra \ww* \tc1 \ww lineage \ww* \tc2 \ww OF \ww* \tc3 \ww son \ww* \tc4 \ww OR \ww* \tc5 \ww lineage \ww* \tc6 \ww OF \ww* \tc7 \ww daugther \ww*
@@ -122,9 +122,9 @@
 \tr \tc0 \ow སྤྱད་པ \ow* \tc1 \ow ར་ \ow* \tc2 \ow འདོད་པ་ \ow* \tc3 \ow དེ \ow* \tc4 \ow ས་ \ow* \tc5 \ow འདི་ལྟར་ \ow* \tc6 \ow རྣམ་པ ར་ \ow* \tc7 \ow བལྟ་བ \ow* \tc8 \ow ར་ \ow* \tc9 \ow བྱ་ \ow* \tc9 \ow སྟེ། \ow*
 \tr \tc0 \pw chepa \pw* \tc1 \pw r \pw* \tc2 \pw döpa \pw* \tc3 \pw té \pw* \tc4 \pw  \pw* \tc5 \pw ditar \pw* \tc6 \pw nampa r \pw* \tc7 \pw tawa \pw* \tc8 \pw r \pw* \tc9 \pw cha \pw* \tc9 \pw té \pw*
 \tr \tc0 \ww practice \ww* \tc1 \ww TO \ww* \tc2 \ww wishes \ww* \tc3 \ww that \ww* \tc4 \ww SUBJ \ww* \tc5 \ww like this \ww* \tc6 \ww in detail \ww* \tc7 \ww look \ww* \tc8 \ww TO \ww* \tc9 \ww do \ww* \tc9 \ww THEN \ww*
-\iot “Shariputra, any son of the lineage or daughter of the lineage who wishes to practice the activity of the profound perfection of wisdom should look at it like this,
+
 \mi
-\v 11
+\v 11 \iot perfectly considering entirely those five aggregates as empty of inherent nature.
 \tr \tc0 \ow ཕུང་པོ་ \ow* \tc1 \ow ལྔ་པོ་ \ow* \tc2 \ow དེ་དག་ \ow* \tc3 \ow ཀྱང་ \ow* \tc4 \ow རང་བཞིན་ \ow* \tc5 \ow གྱིས་ \ow* \tc6 \ow སྟོང་པ \ow* \tc7 \ow ར་ \ow*
 \tr \tc0 \pw phungpo \pw* \tc1 \pw ngapo \pw* \tc2 \pw tetak \pw* \tc3 \pw kyang \pw* \tc4 \pw rangzhin \pw* \tc5 \pw kyi \pw* \tc6 \pw tongpa \pw* \tc7 \pw r \pw*
 \tr \tc0 \ww aggregate \ww* \tc1 \ww five \ww* \tc2 \ww those \ww* \tc3 \ww also \ww* \tc4 \ww nature \ww* \tc5 \ww SUBJ \ww* \tc6 \ww empty \ww* \tc7 \ww TO \ww*
@@ -132,33 +132,33 @@
 \tr \tc0 \ow རྣམ་པ ར་ \ow* \tc1 \ow ཡང་དག་པ \ow* \tc2 \ow ར་ \ow* \tc3 \ow རྗེས་ སུ་ \ow* \tc4 \ow བལྟ \ow* \tc5 \ow འོ།། \ow*
 \tr \tc0 \pw nampa r \pw* \tc1 \pw yangtakpa \pw* \tc2 \pw r \pw* \tc3 \pw je su \pw* \tc4 \pw ta \pw* \tc5 \pw 'o \pw*
 \tr \tc0 \ww in detail \ww* \tc1 \ww perfect \ww* \tc2 \ww TO \ww* \tc3 \ww afterwards \ww* \tc4 \ww look \ww* \tc5 \ww END \ww*
-\iot perfectly considering entirely those five aggregates as empty of inherent nature.
+
 \mi
-\v 12
+\v 12 \iot Form is empty.
 \tr \tc0 \ow གཟུགས་ \ow* \tc1 \ow སྟོང་པ \ow* \tc2 \ow འོ།། \ow*
 \tr \tc0 \pw zuk \pw* \tc1 \pw tongpa \pw* \tc2 \pw 'o \pw*
 \tr \tc0 \ww form \ww* \tc1 \ww empty \ww* \tc2 \ww END \ww*
-\iot Form is empty.
+
 \mi
-\v 13
+\v 13 \iot Emptiness is form.
 \tr \tc0 \ow སྟོང་པ་ ཉིད་ \ow* \tc1 \ow གཟུགས་ \ow* \tc2 \ow སོ།། \ow*
 \tr \tc0 \pw tongpa nyi \pw* \tc1 \pw zuk \pw* \tc2 \pw so \pw*
 \tr \tc0 \ww emptiness \ww* \tc1 \ww form \ww* \tc2 \ww END \ww*
-\iot Emptiness is form.
+
 \mi
-\v 14
+\v 14 \iot Emptiness is not other than form;
 \tr \tc0 \ow གཟུགས་ \ow* \tc1 \ow ལས་ \ow* \tc2 \ow སྟོང་པ་ ཉིད་ \ow* \tc3 \ow གཞན་ \ow* \tc4 \ow མ་ ཡིན། \ow*
 \tr \tc0 \pw zuk \pw* \tc1 \pw lé \pw* \tc2 \pw tongpa nyi \pw* \tc3 \pw zhen \pw* \tc4 \pw ma yin \pw*
 \tr \tc0 \ww form \ww* \tc1 \ww FROM \ww* \tc2 \ww emptiness \ww* \tc3 \ww other \ww* \tc4 \ww is not \ww*
-\iot Emptiness is not other than form;
+
 \mi
-\v 15
+\v 15 \iot form is also not other than emptiness.
 \tr \tc0 \ow སྟོང་པ་ ཉིད་ \ow* \tc1 \ow ལས་ \ow* \tc2 \ow ཀྱང་ \ow* \tc3 \ow གཟུགས་ \ow* \tc4 \ow གཞན་ \ow* \tc5 \ow མ་ ཡིན་ \ow* \tc6 \ow ནོ།། \ow*
 \tr \tc0 \pw tongpa nyi \pw* \tc1 \pw lé \pw* \tc2 \pw kyang \pw* \tc3 \pw zuk \pw* \tc4 \pw zhen \pw* \tc5 \pw ma yin \pw* \tc6 \pw no \pw*
 \tr \tc0 \ww emptiness \ww* \tc1 \ww FROM \ww* \tc2 \ww also \ww* \tc3 \ww form \ww* \tc4 \ww other \ww* \tc5 \ww is not \ww* \tc6 \ww END \ww*
-\iot form is also not other than emptiness.
+
 \mi
-\v 16
+\v 16 \iot In the same way, feeling, discrimination, compositional factors, and consciousness are empty.
 \tr \tc0 \ow དེ་ བཞིན་དུ་ \ow* \tc1 \ow ཚོར་བ་ \ow* \tc2 \ow དང་། \ow* \tc3 \ow འདུ་ཤེས་ \ow* \tc4 \ow དང་། \ow*
 \tr \tc0 \pw te zhintu \pw* \tc1 \pw tsorwa \pw* \tc2 \pw tang \pw* \tc3 \pw dushé \pw* \tc4 \pw tang \pw*
 \tr \tc0 \ww similarly \ww* \tc1 \ww feeling \ww* \tc2 \ww and \ww* \tc3 \ww discrimination \ww* \tc4 \ww and \ww*
@@ -166,9 +166,9 @@
 \tr \tc0 \ow འདུ་བྱེད་ \ow* \tc1 \ow དང་། \ow* \tc2 \ow རྣམ་པར་ ཤེས་པ་ \ow* \tc3 \ow རྣམས་ \ow* \tc4 \ow སྟོང་པ \ow* \tc5 \ow འོ།། \ow*
 \tr \tc0 \pw duché \pw* \tc1 \pw tang \pw* \tc2 \pw nampar shepa \pw* \tc3 \pw nam \pw* \tc4 \pw tongpa \pw* \tc5 \pw 'o \pw*
 \tr \tc0 \ww compositional factors \ww* \tc1 \ww and \ww* \tc2 \ww consciousness \ww* \tc3 \ww all \ww* \tc4 \ww empty \ww* \tc5 \ww END \ww*
-\iot In the same way, feeling, discrimination, compositional factors, and consciousness are empty.
+
 \mi
-\v 17
+\v 17 \iot “Shariputra, likewise, all phenomena are emptiness. They have no characteristic; are not produced, do not cease; are not stained, are not without stain; are not diminished, are not filled.
 \tr \tc0 \ow ཤཱ་རིའི་བུ། \ow* \tc1 \ow དེ་ལྟར་ \ow* \tc2 \ow ཆོས་ \ow* \tc3 \ow ཐམས་ཅད་ \ow* \tc4 \ow སྟོང་པ་ ཉིད་ \ow* \tc5 \ow དེ། \ow*
 \tr \tc0 \pw sharipu \pw* \tc1 \pw tetar \pw* \tc2 \pw chö \pw* \tc3 \pw thamché \pw* \tc4 \pw tongpa nyi \pw* \tc5 \pw té \pw*
 \tr \tc0 \ww Shariputra \ww* \tc1 \ww like this \ww* \tc2 \ww phenomenon \ww* \tc3 \ww all \ww* \tc4 \ww emptiness \ww* \tc5 \ww THEN \ww*
@@ -180,111 +180,111 @@
 \tr \tc0 \ow བྲལ་བ་ \ow* \tc1 \ow མེད་པ། \ow* \tc2 \ow བྲི་བ་ \ow* \tc3 \ow མེད་པ། \ow* \tc4 \ow གང་བ་ \ow* \tc5 \ow མེད་པ \ow* \tc6 \ow འོ།། \ow*
 \tr \tc0 \pw tralwa \pw* \tc1 \pw mepa \pw* \tc2 \pw triwa \pw* \tc3 \pw mepa \pw* \tc4 \pw kangwa \pw* \tc5 \pw mepa \pw* \tc6 \pw 'o \pw*
 \tr \tc0 \ww separated \ww* \tc1 \ww has not \ww* \tc2 \ww deficient \ww* \tc3 \ww has not \ww* \tc4 \ww fulfilled \ww* \tc5 \ww has not \ww* \tc6 \ww END \ww*
-\iot “Shariputra, likewise, all phenomena are emptiness. They have no characteristic; are not produced, do not cease; are not stained, are not without stain; are not diminished, are not filled.
+
 \mi
-\v 18
+\v 18 \iot “Shariputra, therefore, in emptiness there is no form,
 \tr \tc0 \ow ཤཱ་རིའི་བུ། \ow* \tc1 \ow དེ་ལྟ་བས་ན་ \ow* \tc2 \ow སྟོང་པ་ ཉིད་ \ow* \tc3 \ow ལ་ \ow* \tc4 \ow གཟུགས་ \ow* \tc5 \ow མེད། \ow*
 \tr \tc0 \pw sharipu \pw* \tc1 \pw tetawéna \pw* \tc2 \pw tongpa nyi \pw* \tc3 \pw la \pw* \tc4 \pw zuk \pw* \tc5 \pw mé \pw*
 \tr \tc0 \ww Shariputra \ww* \tc1 \ww likewise \ww* \tc2 \ww emptiness \ww* \tc3 \ww TO \ww* \tc4 \ww form \ww* \tc5 \ww has not \ww*
-\iot “Shariputra, therefore, in emptiness there is no form,
+
 \mi
-\v 19
+\v 19 \iot there is no feeling,
 \tr \tc0 \ow ཚོར་བ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw tsorwa \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww feeling \ww* \tc1 \ww has not \ww*
-\iot there is no feeling,
+
 \mi
-\v 20
+\v 20 \iot there is no discrimination,
 \tr \tc0 \ow འདུ་ཤེས་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw dushé \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww discrimination \ww* \tc1 \ww has not \ww*
-\iot there is no discrimination,
+
 \mi
-\v 21
+\v 21 \iot there is no compositional factors,
 \tr \tc0 \ow འདུ་བྱེད་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw duché \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww compositional factors \ww* \tc1 \ww has not \ww*
-\iot there is no compositional factors,
+
 \mi
-\v 22
+\v 22 \iot there is no consciousness;
 \tr \tc0 \ow རྣམ་པར་ ཤེས་པ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw nampar shepa \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww consciousness \ww* \tc1 \ww has not \ww*
-\iot there is no consciousness;
+
 \mi
-\v 23
+\v 23 \iot there is no eye,
 \tr \tc0 \ow མིག་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw mik \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww eye \ww* \tc1 \ww has not \ww*
-\iot there is no eye,
+
 \mi
-\v 24
+\v 24 \iot there is no ear,
 \tr \tc0 \ow རྣ་བ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw nawa \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww ear \ww* \tc1 \ww has not \ww*
-\iot there is no ear,
+
 \mi
-\v 25
+\v 25 \iot there is no nose,
 \tr \tc0 \ow སྣ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw na \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww nose \ww* \tc1 \ww has not \ww*
-\iot there is no nose,
+
 \mi
-\v 26
+\v 26 \iot there is no tongue,
 \tr \tc0 \ow ལྕེ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw che \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww tongue \ww* \tc1 \ww has not \ww*
-\iot there is no tongue,
+
 \mi
-\v 27
+\v 27 \iot there is no body,
 \tr \tc0 \ow ལུས་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw lü \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww body \ww* \tc1 \ww has not \ww*
-\iot there is no body,
+
 \mi
-\v 28
+\v 28 \iot there is no mind;
 \tr \tc0 \ow ཡིད་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw yi \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww mind \ww* \tc1 \ww has not \ww*
-\iot there is no mind;
+
 \mi
-\v 29
+\v 29 \iot there is no visual form,
 \tr \tc0 \ow གཟུགས་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw zuk \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww form \ww* \tc1 \ww has not \ww*
-\iot there is no visual form,
+
 \mi
-\v 30
+\v 30 \iot there is no sound,
 \tr \tc0 \ow སྒྲ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw dra \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww sound \ww* \tc1 \ww has not \ww*
-\iot there is no sound,
+
 \mi
-\v 31
+\v 31 \iot there is no odor,
 \tr \tc0 \ow དྲི་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw tri \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww odor \ww* \tc1 \ww has not \ww*
-\iot there is no odor,
+
 \mi
-\v 32
+\v 32 \iot there is no taste,
 \tr \tc0 \ow རོ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw ro \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww taste \ww* \tc1 \ww has not \ww*
-\iot there is no taste,
+
 \mi
-\v 33
+\v 33 \iot there is no object of touch,
 \tr \tc0 \ow རེག་བྱ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw rekcha \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww touch \ww* \tc1 \ww has not \ww*
-\iot there is no object of touch,
+
 \mi
-\v 34
+\v 34 \iot there is no phenomenon.
 \tr \tc0 \ow ཆོས་ \ow* \tc1 \ow མེད་ \ow* \tc2 \ow དོ།། \ow*
 \tr \tc0 \pw chö \pw* \tc1 \pw mé \pw* \tc2 \pw to \pw*
 \tr \tc0 \ww phenomenon \ww* \tc1 \ww has not \ww* \tc2 \ww END \ww*
-\iot there is no phenomenon.
+
 \mi
-\v 35
+\v 35 \iot There is no eye element, up to there is no mind element and up to there is no mental consciousness element.
 \tr \tc0 \ow མིག་ \ow* \tc1 \ow གི་ \ow* \tc2 \ow ཁམས་ \ow* \tc3 \ow མེད་པ་ \ow* \tc4 \ow ནས་ \ow* \tc5 \ow ཡིད་ \ow* \tc6 \ow ཀྱི་ \ow* \tc7 \ow ཁམས་ \ow* \tc8 \ow མེད། \ow* \tc9 \ow ཡིད་ \ow* \tc9 \ow ཀྱི་ \ow*
 \tr \tc0 \pw mik \pw* \tc1 \pw ki \pw* \tc2 \pw kham \pw* \tc3 \pw mepa \pw* \tc4 \pw né \pw* \tc5 \pw yi \pw* \tc6 \pw kyi \pw* \tc7 \pw kham \pw* \tc8 \pw mé \pw* \tc9 \pw yi \pw* \tc9 \pw kyi \pw*
 \tr \tc0 \ww eye \ww* \tc1 \ww OF \ww* \tc2 \ww element \ww* \tc3 \ww has not \ww* \tc4 \ww from \ww* \tc5 \ww mind \ww* \tc6 \ww OF \ww* \tc7 \ww element \ww* \tc8 \ww has not \ww* \tc9 \ww mind \ww* \tc9 \ww OF \ww*
@@ -292,27 +292,27 @@
 \tr \tc0 \ow རྣམ་པར་ ཤེས་པ \ow* \tc1 \ow འི་ \ow* \tc2 \ow ཁམས་ \ow* \tc3 \ow ཀྱི་ \ow* \tc4 \ow བར་དུ \ow* \tc5 \ow འང་ \ow* \tc6 \ow མེད་ \ow* \tc7 \ow དོ།། \ow*
 \tr \tc0 \pw nampar shepa \pw* \tc1 \pw 'i \pw* \tc2 \pw kham \pw* \tc3 \pw kyi \pw* \tc4 \pw partu \pw* \tc5 \pw 'ang \pw* \tc6 \pw mé \pw* \tc7 \pw to \pw*
 \tr \tc0 \ww consciousness \ww* \tc1 \ww OF \ww* \tc2 \ww element \ww* \tc3 \ww OF \ww* \tc4 \ww until \ww* \tc5 \ww also \ww* \tc6 \ww has not \ww* \tc7 \ww END \ww*
-\iot There is no eye element, up to there is no mind element and up to there is no mental consciousness element.
+
 \mi
-\v 36
+\v 36 \iot There is no ignorance,
 \tr \tc0 \ow མ་ རིག་པ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw ma rikpa \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww ignorance \ww* \tc1 \ww has not \ww*
-\iot There is no ignorance,
+
 \mi
-\v 37
+\v 37 \iot there is no extinction of ignorance, up to these is no aging and death,
 \tr \tc0 \ow མ་ རིག་པ་ \ow* \tc1 \ow ཟད་པ་ \ow* \tc2 \ow མེད་པ་ \ow* \tc3 \ow ནས་ \ow* \tc4 \ow རྒ་ \ow* \tc5 \ow ཤི་ \ow* \tc6 \ow མེད། \ow*
 \tr \tc0 \pw ma rikpa \pw* \tc1 \pw zepa \pw* \tc2 \pw mepa \pw* \tc3 \pw né \pw* \tc4 \pw ga \pw* \tc5 \pw shi \pw* \tc6 \pw mé \pw*
 \tr \tc0 \ww ignorance \ww* \tc1 \ww extinction \ww* \tc2 \ww has not \ww* \tc3 \ww UNTIL \ww* \tc4 \ww aging \ww* \tc5 \ww dying \ww* \tc6 \ww has not \ww*
-\iot there is no extinction of ignorance, up to these is no aging and death,
+
 \mi
-\v 38
+\v 38 \iot and until there is no extinction of aging and death.
 \tr \tc0 \ow རྒ་ \ow* \tc1 \ow ཤི་ \ow* \tc2 \ow ཟད་པ \ow* \tc3 \ow འི་ \ow* \tc4 \ow བར་དུ \ow* \tc5 \ow འང་ \ow* \tc6 \ow མེད་ \ow* \tc7 \ow དོ།། \ow*
 \tr \tc0 \pw ga \pw* \tc1 \pw shi \pw* \tc2 \pw zepa \pw* \tc3 \pw 'i \pw* \tc4 \pw partu \pw* \tc5 \pw 'ang \pw* \tc6 \pw mé \pw* \tc7 \pw to \pw*
 \tr \tc0 \ww aging \ww* \tc1 \ww dying \ww* \tc2 \ww extinction \ww* \tc3 \ww OF \ww* \tc4 \ww until \ww* \tc5 \ww also \ww* \tc6 \ww has not \ww* \tc7 \ww END \ww*
-\iot and until there is no extinction of aging and death.
+
 \mi
-\v 39
+\v 39 \iot Similarly, there is no suffering, origination, cessation, and path;
 \tr \tc0 \ow དེ་ བཞིན་དུ་ \ow* \tc1 \ow སྡུག་ བསྔལ་བ་ \ow* \tc2 \ow དང་། \ow* \tc3 \ow ཀུན་ འབྱུང་བ་ \ow* \tc4 \ow དང་། \ow* \tc5 \ow འགོག་པ་ \ow* \tc6 \ow དང་། \ow*
 \tr \tc0 \pw te zhintu \pw* \tc1 \pw duk ngalwa \pw* \tc2 \pw tang \pw* \tc3 \pw kün jungwa \pw* \tc4 \pw tang \pw* \tc5 \pw gokpa \pw* \tc6 \pw tang \pw*
 \tr \tc0 \ww similarly \ww* \tc1 \ww suffering \ww* \tc2 \ww and \ww* \tc3 \ww origination \ww* \tc4 \ww and \ww* \tc5 \ww cessation \ww* \tc6 \ww and \ww*
@@ -320,27 +320,27 @@
 \tr \tc0 \ow ལམ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw lam \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww path \ww* \tc1 \ww has not \ww*
-\iot Similarly, there is no suffering, origination, cessation, and path;
+
 \mi
-\v 40
+\v 40 \iot there is no exalted wisdom,
 \tr \tc0 \ow ཡེ་ཤེས་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw yeshé \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww wisdom \ww* \tc1 \ww has not \ww*
-\iot there is no exalted wisdom,
+
 \mi
-\v 41
+\v 41 \iot there is no attainment,
 \tr \tc0 \ow ཐོབ་པ་ \ow* \tc1 \ow མེད། \ow*
 \tr \tc0 \pw thob pa \pw* \tc1 \pw mé \pw*
 \tr \tc0 \ww attainment \ww* \tc1 \ww has not \ww*
-\iot there is no attainment,
+
 \mi
-\v 42
+\v 42 \iot there is also no non-attainment.
 \tr \tc0 \ow མ་ ཐོབ་པ \ow* \tc1 \ow འང་ \ow* \tc2 \ow མེད་ \ow* \tc3 \ow དོ།། \ow*
 \tr \tc0 \pw ma thob pa \pw* \tc1 \pw 'ang \pw* \tc2 \pw mé \pw* \tc3 \pw to \pw*
 \tr \tc0 \ww non attainment \ww* \tc1 \ww also \ww* \tc2 \ww has not \ww* \tc3 \ww END \ww*
-\iot there is also no non-attainment.
+
 \mi
-\v 43
+\v 43 \iot “Shariputra, therefore, because there is no attainment for bodhisattvas, they rely on and dwell in the perfection of wisdom,
 \tr \tc0 \ow ཤཱ་རིའི་བུ། \ow* \tc1 \ow དེ་ལྟ་བས་ན་ \ow* \tc2 \ow བྱང་ཆུབ་ སེམས་དཔའ་ \ow* \tc3 \ow རྣམས་ \ow* \tc4 \ow ལ་ \ow* \tc5 \ow ཐོབ་པ་ \ow*
 \tr \tc0 \pw sharipu \pw* \tc1 \pw tetawéna \pw* \tc2 \pw changchub sempa \pw* \tc3 \pw nam \pw* \tc4 \pw la \pw* \tc5 \pw thob pa \pw*
 \tr \tc0 \ww Shariputra \ww* \tc1 \ww therefore \ww* \tc2 \ww bodhisattva \ww* \tc3 \ww PL \ww* \tc4 \ww TO \ww* \tc5 \ww attainment \ww*
@@ -352,27 +352,27 @@
 \tr \tc0 \ow ཏེ་ \ow*
 \tr \tc0 \pw té \pw*
 \tr \tc0 \ww THEN \ww*
-\iot “Shariputra, therefore, because there is no attainment for bodhisattvas, they rely on and dwell in the perfection of wisdom,
+
 \mi
-\v 44
+\v 44 \iot their mind doesn't have obscuration and has no fear and thus
 \tr \tc0 \ow སེམས་ \ow* \tc1 \ow ལ་ \ow* \tc2 \ow སྒྲིབ་པ་ \ow* \tc3 \ow མེད་པ \ow* \tc4 \ow ས་ \ow* \tc5 \ow སྐྲག་པ་ \ow* \tc6 \ow མེད་ \ow* \tc7 \ow དེ། \ow*
 \tr \tc0 \pw sem \pw* \tc1 \pw la \pw* \tc2 \pw drib pa \pw* \tc3 \pw mepé \pw* \tc4 \pw  \pw* \tc5 \pw trak pa \pw* \tc6 \pw mé \pw* \tc7 \pw té \pw*
 \tr \tc0 \ww mind \ww* \tc1 \ww TO \ww* \tc2 \ww obscuration \ww* \tc3 \ww has not \ww* \tc4 \ww SUBJ \ww* \tc5 \ww fear \ww* \tc6 \ww has not \ww* \tc7 \ww THEN \ww*
-\iot their mind doesn't have obscuration and has no fear and thus
+
 \mi
-\v 45
+\v 45 \iot they have completely passed beyond error and
 \tr \tc0 \ow ཕྱིན་ ཅི་ ལོག་ \ow* \tc1 \ow ལས་ \ow* \tc2 \ow ཤིན་ཏུ་ \ow* \tc3 \ow འདས་ \ow* \tc4 \ow ནས་ \ow*
 \tr \tc0 \pw chin chi lok \pw* \tc1 \pw lé \pw* \tc2 \pw shintu \pw* \tc3 \pw dé \pw* \tc4 \pw né \pw*
 \tr \tc0 \ww error \ww* \tc1 \ww FROM \ww* \tc2 \ww very \ww* \tc3 \ww pass beyond \ww* \tc4 \ww THEN \ww*
-\iot they have completely passed beyond error and
+
 \mi
-\v 46
+\v 46 \iot they reached the endpoint of nirvana.
 \tr \tc0 \ow མྱ་ངན་ ལས་ འདས་པ \ow* \tc1 \ow ར་ \ow* \tc2 \ow མཐ \ow* \tc3 \ow ར་ \ow* \tc4 \ow ཕྱིན་ \ow* \tc5 \ow ཏོ།། \ow*
 \tr \tc0 \pw nya-ngen lé depa \pw* \tc1 \pw r \pw* \tc2 \pw tha \pw* \tc3 \pw r \pw* \tc4 \pw chin \pw* \tc5 \pw to \pw*
 \tr \tc0 \ww nirvana \ww* \tc1 \ww TO \ww* \tc2 \ww endpoint \ww* \tc3 \ww TO \ww* \tc4 \ww reach \ww* \tc5 \ww END \ww*
-\iot they reached the endpoint of nirvana.
+
 \mi
-\v 47
+\v 47 \iot All the buddhas who dwell in the three times also rely on the perfection of wisdom and manifestly, completely awaken to unsurpassable, perfect, complete enlightenment.
 \tr \tc0 \ow དུས་ \ow* \tc1 \ow གསུམ་ \ow* \tc2 \ow དུ་ \ow* \tc3 \ow རྣམ་པ ར་ \ow* \tc4 \ow བཞུགས་པ \ow* \tc5 \ow འི་ \ow* \tc6 \ow སངས་རྒྱས་ \ow* \tc7 \ow ཐམས་ཅད་ \ow* \tc8 \ow ཀྱང་ \ow* \tc9 \ow ཤེས་རབ་ \ow* \tc9 \ow ཀྱི་ \ow*
 \tr \tc0 \pw tü \pw* \tc1 \pw sum \pw* \tc2 \pw tu \pw* \tc3 \pw nampa r \pw* \tc4 \pw zhukpa \pw* \tc5 \pw 'i \pw* \tc6 \pw sangyé \pw* \tc7 \pw thamché \pw* \tc8 \pw kyang \pw* \tc9 \pw sherab \pw* \tc9 \pw kyi \pw*
 \tr \tc0 \ww time \ww* \tc1 \ww three \ww* \tc2 \ww TO \ww* \tc3 \ww completely \ww* \tc4 \ww stay \ww* \tc5 \ww OF \ww* \tc6 \ww buddha \ww* \tc7 \ww all \ww* \tc8 \ww also \ww* \tc9 \ww wisdom \ww* \tc9 \ww OF \ww*
@@ -384,9 +384,9 @@
 \tr \tc0 \ow རྫོགས་པ \ow* \tc1 \ow འི་ \ow* \tc2 \ow བྱང་ཆུབ་ \ow* \tc3 \ow ཏུ་ \ow* \tc4 \ow མངོན་པ ར་ \ow* \tc5 \ow རྫོགས་པ ར་ \ow* \tc6 \ow སངས་ རྒྱས་ \ow* \tc7 \ow སོ།། \ow*
 \tr \tc0 \pw dzokpa \pw* \tc1 \pw 'i \pw* \tc2 \pw changchub \pw* \tc3 \pw tu \pw* \tc4 \pw ngönpa r \pw* \tc5 \pw dzokpa r \pw* \tc6 \pw sang gyé \pw* \tc7 \pw so \pw*
 \tr \tc0 \ww complete \ww* \tc1 \ww OF \ww* \tc2 \ww enlightenment \ww* \tc3 \ww TO \ww* \tc4 \ww manifestly \ww* \tc5 \ww completely \ww* \tc6 \ww awaken \ww* \tc7 \ww END \ww*
-\iot All the buddhas who dwell in the three times also rely on the perfection of wisdom and manifestly, completely awaken to unsurpassable, perfect, complete enlightenment.
+
 \mi
-\v 48
+\v 48 \iot Therefore, the mantra of the perfection of wisdom, the mantra of great knowledge, the unsurpassed mantra, the mantra that equalizes the unequaled, the mantra that thoroughly pacifies all suffering, should be known as truth since it is not false.
 \tr \tc0 \ow དེ་ལྟ་བས་ན་ \ow* \tc1 \ow ཤེས་རབ་ \ow* \tc2 \ow ཀྱི་ \ow* \tc3 \ow ཕ་རོལ་ \ow* \tc4 \ow ཏུ་ \ow* \tc5 \ow ཕྱིན་པ་ \ow* \tc6 \ow འི་ \ow* \tc7 \ow སྔགས། \ow*
 \tr \tc0 \pw tetawéna \pw* \tc1 \pw sherab \pw* \tc2 \pw kyi \pw* \tc3 \pw pharol \pw* \tc4 \pw tu \pw* \tc5 \pw chinpa \pw* \tc6 \pw 'i \pw* \tc7 \pw ngak \pw*
 \tr \tc0 \ww therefore \ww* \tc1 \ww wisdom \ww* \tc2 \ww OF \ww* \tc3 \ww other shore \ww* \tc4 \ww TO \ww* \tc5 \ww gone \ww* \tc6 \ww OF \ww* \tc7 \ww mantra \ww*
@@ -402,15 +402,15 @@
 \tr \tc0 \ow འི་ \ow* \tc1 \ow སྔགས། \ow* \tc2 \ow མི་ རྫུན་པ \ow* \tc3 \ow ས་ \ow* \tc4 \ow ན་ \ow* \tc5 \ow བདེན་པ \ow* \tc6 \ow ར་ \ow* \tc7 \ow ཤེས་པ \ow* \tc8 \ow ར་ \ow* \tc9 \ow བྱ་ \ow* \tc9 \ow སྟེ། \ow*
 \tr \tc0 \pw 'i \pw* \tc1 \pw ngak \pw* \tc2 \pw mi dzünpé \pw* \tc3 \pw  \pw* \tc4 \pw na \pw* \tc5 \pw denpa \pw* \tc6 \pw r \pw* \tc7 \pw shepa \pw* \tc8 \pw r \pw* \tc9 \pw cha \pw* \tc9 \pw té \pw*
 \tr \tc0 \ww OF \ww* \tc1 \ww mantra \ww* \tc2 \ww not lying \ww* \tc3 \ww SUBJ \ww* \tc4 \ww because \ww* \tc5 \ww truth \ww* \tc6 \ww TO \ww* \tc7 \ww know \ww* \tc8 \ww TO \ww* \tc9 \ww do \ww* \tc9 \ww THEN \ww*
-\iot Therefore, the mantra of the perfection of wisdom, the mantra of great knowledge, the unsurpassed mantra, the mantra that equalizes the unequaled, the mantra that thoroughly pacifies all suffering, should be known as truth since it is not false.
+
 \mi
-\v 49
+\v 49 \iot The mantra of the perfection of wisdom is declared:
 \tr \tc0 \ow ཤེས་རབ་ \ow* \tc1 \ow ཀྱི་ \ow* \tc2 \ow ཕ་རོལ་ \ow* \tc3 \ow ཏུ་ \ow* \tc4 \ow ཕྱིན་པ \ow* \tc5 \ow འི་ \ow* \tc6 \ow སྔགས་ \ow* \tc7 \ow སྨྲས་པ། \ow*
 \tr \tc0 \pw sherab \pw* \tc1 \pw kyi \pw* \tc2 \pw pharol \pw* \tc3 \pw tu \pw* \tc4 \pw chinpa \pw* \tc5 \pw 'i \pw* \tc6 \pw ngak \pw* \tc7 \pw mepa \pw*
 \tr \tc0 \ww wisdom \ww* \tc1 \ww OF \ww* \tc2 \ww other shore \ww* \tc3 \ww TO \ww* \tc4 \ww gone \ww* \tc5 \ww OF \ww* \tc6 \ww mantra \ww* \tc7 \ww declare \ww*
-\iot The mantra of the perfection of wisdom is declared:
+
 \mi
-\v 50
+\v 50 \iot TADYATHA GATE GATE PARAGATE PARASAMGATE BODHI SVAHA
 \tr \tc0 \ow ཏདྱཐཱ། \ow*
 \tr \tc0 \pw tadyatha \pw*
 \tr \tc0 \ww TADYATHA \ww*
@@ -418,9 +418,9 @@
 \tr \tc0 \ow ག་ཏེ་ག་ཏེ་པཱ་ར་ག་ཏེ་པཱ་ར་སཾ་ག་ཏེ་བོ་དྷི་སྭཱ་ཧཱ། \ow*
 \tr \tc0 \pw gaté gaté para gaté para samgaté bodhi soha \pw*
 \tr \tc0 \ww GATE GATE PARA GATE PARA SAM GATE BODHI SVAHA \ww*
-\iot TADYATHA GATE GATE PARAGATE PARASAMGATE BODHI SVAHA
+
 \mi
-\v 51
+\v 51 \iot “Shariputra, the bodhisattva mahasattva should train in the profound perfection of wisdom like that.”
 \tr \tc0 \ow ཤཱ་རིའི་བུ་ \ow* \tc1 \ow བྱང་ཆུབ་ སེམས་དཔའ་ \ow* \tc2 \ow སེམས་དཔའ་ ཆེན་པོ \ow* \tc3 \ow ས་ \ow* \tc4 \ow དེ་ལྟ ར་ \ow*
 \tr \tc0 \pw sharipu \pw* \tc1 \pw changchub sempa \pw* \tc2 \pw sempa chenpö \pw* \tc3 \pw  \pw* \tc4 \pw teta r \pw*
 \tr \tc0 \ww Shariputra \ww* \tc1 \ww bodhisattva \ww* \tc2 \ww mahasattva \ww* \tc3 \ww SUBJ \ww* \tc4 \ww like this \ww*
@@ -428,15 +428,15 @@
 \tr \tc0 \ow ཤེས་རབ་ \ow* \tc1 \ow ཀྱི་ \ow* \tc2 \ow ཕ་རོལ་ \ow* \tc3 \ow ཏུ་ \ow* \tc4 \ow ཕྱིན་པ་ \ow* \tc5 \ow ཟབ་མོ་ \ow* \tc6 \ow ལ་ \ow* \tc7 \ow བསླབ་པ \ow* \tc8 \ow ར་ \ow* \tc9 \ow བྱ \ow* \tc9 \ow འོ།། \ow*
 \tr \tc0 \pw sherab \pw* \tc1 \pw kyi \pw* \tc2 \pw pharol \pw* \tc3 \pw tu \pw* \tc4 \pw chinpa \pw* \tc5 \pw zabmo \pw* \tc6 \pw la \pw* \tc7 \pw labpa \pw* \tc8 \pw r \pw* \tc9 \pw cha \pw* \tc9 \pw 'o \pw*
 \tr \tc0 \ww wisdom \ww* \tc1 \ww OF \ww* \tc2 \ww other shore \ww* \tc3 \ww TO \ww* \tc4 \ww gone \ww* \tc5 \ww profound \ww* \tc6 \ww TO \ww* \tc7 \ww train \ww* \tc8 \ww TO \ww* \tc9 \ww do \ww* \tc9 \ww END \ww*
-\iot “Shariputra, the bodhisattva mahasattva should train in the profound perfection of wisdom like that.”
+
 \mi
-\v 52
+\v 52 \iot Then the Bhagavan arose from that concentration
 \tr \tc0 \ow དེ་ནས་ \ow* \tc1 \ow བཅོམ་ལྡན་འདས་ \ow* \tc2 \ow ཏིང་ངེ་འཛིན་ \ow* \tc3 \ow དེ་ \ow* \tc4 \ow ལས་ \ow* \tc5 \ow བཞེངས་ \ow* \tc6 \ow ཏེ་ \ow*
 \tr \tc0 \pw tené \pw* \tc1 \pw chomdendé \pw* \tc2 \pw ting ngédzin \pw* \tc3 \pw té \pw* \tc4 \pw lé \pw* \tc5 \pw zheng \pw* \tc6 \pw té \pw*
 \tr \tc0 \ww then \ww* \tc1 \ww Bhagavan \ww* \tc2 \ww concentration \ww* \tc3 \ww that \ww* \tc4 \ww FROM \ww* \tc5 \ww arose \ww* \tc6 \ww THEN \ww*
-\iot Then the Bhagavan arose from that concentration
+
 \mi
-\v 53
+\v 53 \iot and "Well said", commended the bodhisattva mahasattva arya Avalokiteshvara saying: “Well said, well said, son of the lineage, it is like that. It is like that; one should practice the profound perfection of wisdom just as you have indicated;
 \tr \tc0 \ow བྱང་ཆུབ་ སེམས་དཔའ་ \ow* \tc1 \ow སེམས་དཔའ་ ཆེན་པོ་ \ow* \tc2 \ow འཕགས་པ་ \ow*
 \tr \tc0 \pw changchub sempa \pw* \tc1 \pw sempa chenpo \pw* \tc2 \pw phakpa \pw*
 \tr \tc0 \ww bodhisattva \ww* \tc1 \ww mahasattva \ww* \tc2 \ww arya \ww*
@@ -456,21 +456,21 @@
 \tr \tc0 \ow སྤྱད་པ \ow* \tc1 \ow ར་ \ow* \tc2 \ow བྱ་ \ow* \tc3 \ow སྟེ། \ow*
 \tr \tc0 \pw chepa \pw* \tc1 \pw r \pw* \tc2 \pw cha \pw* \tc3 \pw té \pw*
 \tr \tc0 \ww practice \ww* \tc1 \ww TO \ww* \tc2 \ww do \ww* \tc3 \ww THEN \ww*
-\iot and "Well said", commended the bodhisattva mahasattva arya Avalokiteshvara saying: “Well said, well said, son of the lineage, it is like that. It is like that; one should practice the profound perfection of wisdom just as you have indicated;
+
 \mi
-\v 54
+\v 54 \iot even the tathagatas will rejoice.”
 \tr \tc0 \ow དེ་ བཞིན་ གཤེགས་པ་ \ow* \tc1 \ow རྣམས་ \ow* \tc2 \ow ཀྱང་ \ow* \tc3 \ow རྗེས་ སུ་ ཡི་རང་ \ow* \tc4 \ow ངོ་།། \ow*
 \tr \tc0 \pw te zhin shekpa \pw* \tc1 \pw nam \pw* \tc2 \pw kyang \pw* \tc3 \pw je su yirang \pw* \tc4 \pw ngo \pw*
 \tr \tc0 \ww tathagata \ww* \tc1 \ww PL \ww* \tc2 \ww also \ww* \tc3 \ww rejoice \ww* \tc4 \ww END \ww*
-\iot even the tathagatas will rejoice.”
+
 \mi
-\v 55
+\v 55 \iot The Bhagavan having thus spoken,
 \tr \tc0 \ow བཅོམ་ལྡན་འདས་ \ow* \tc1 \ow ཀྱིས་ \ow* \tc2 \ow དེ་སྐད་ ཅེས་ \ow* \tc3 \ow བཀའ་ སྩལ་ \ow* \tc4 \ow ནས། \ow*
 \tr \tc0 \pw chomdendé \pw* \tc1 \pw kyi \pw* \tc2 \pw teké ché \pw* \tc3 \pw ka tsal \pw* \tc4 \pw né \pw*
 \tr \tc0 \ww Bhagavan \ww* \tc1 \ww SUBJ \ww* \tc2 \ww thus \ww* \tc3 \ww spoke \ww* \tc4 \ww THEN \ww*
-\iot The Bhagavan having thus spoken,
+
 \mi
-\v 56
+\v 56 \iot the venerable Sharadvati putra, the bodhisattva mahasattva arya Avalokiteshvara, and those in the retinue in their entirety along with the world of gods, humans, asuras, and gandharvas rejoiced
 \tr \tc0 \ow ཚེ་ དང་ ལྡན་པ་ \ow* \tc1 \ow ཤཱ་ར་དྭ་ཏི འི་ བུ་ \ow* \tc2 \ow དང་། \ow* \tc3 \ow བྱང་ཆུབ་ སེམས་དཔའ་ \ow*
 \tr \tc0 \pw tsétang denpa \pw* \tc1 \pw sharadati bu \pw* \tc2 \pw tang \pw* \tc3 \pw changchub sempa \pw*
 \tr \tc0 \ww venerable \ww* \tc1 \ww Sharadvatiputra \ww* \tc2 \ww and \ww* \tc3 \ww bodhisattva \ww*
@@ -486,15 +486,15 @@
 \tr \tc0 \ow འཇིག་རྟེན་ \ow* \tc1 \ow ཡི་ རངས་ \ow* \tc2 \ow ཏེ། \ow*
 \tr \tc0 \pw jikten \pw* \tc1 \pw yi rang \pw* \tc2 \pw té \pw*
 \tr \tc0 \ww world \ww* \tc1 \ww rejoice \ww* \tc2 \ww THEN \ww*
-\iot the venerable Sharadvati putra, the bodhisattva mahasattva arya Avalokiteshvara, and those in the retinue in their entirety along with the world of gods, humans, asuras, and gandharvas rejoiced
+
 \mi
-\v 57
+\v 57 \iot and highly praised that spoken by the Bhagavan.
 \tr \tc0 \ow བཅོམ་ལྡན་འདས་ \ow* \tc1 \ow ཀྱིས་ \ow* \tc2 \ow གསུངས་པ་ \ow* \tc3 \ow ལ་ \ow* \tc4 \ow མངོན་པ ར་ \ow* \tc5 \ow བསྟོད་ \ow* \tc6 \ow དོ། \ow*
 \tr \tc0 \pw chomdendé \pw* \tc1 \pw kyi \pw* \tc2 \pw sungpa \pw* \tc3 \pw la \pw* \tc4 \pw ngönpa r \pw* \tc5 \pw tö \pw* \tc6 \pw to \pw*
 \tr \tc0 \ww Bhagavan \ww* \tc1 \ww SUBJ \ww* \tc2 \ww spoke \ww* \tc3 \ww TO \ww* \tc4 \ww manifestly \ww* \tc5 \ww praise \ww* \tc6 \ww END \ww*
-\iot and highly praised that spoken by the Bhagavan.
+
 \mi
-\v 58
+\v 58 \iot Ärya-bhagavatï-prajñäpäramitä-hridaya-sütra is finished.
 \tr \tc0 \ow འཕགས་པ་ \ow* \tc1 \ow ཤེས་རབ་ \ow* \tc2 \ow ཀྱི་ \ow* \tc3 \ow ཕ་རོལ་ \ow* \tc4 \ow ཏུ་ \ow* \tc5 \ow ཕྱིན་པ \ow* \tc6 \ow འི་ \ow* \tc7 \ow སྙིང་པོ་ \ow* \tc8 \ow རྗོགས་ \ow*
 \tr \tc0 \pw phakpa \pw* \tc1 \pw sherab \pw* \tc2 \pw kyi \pw* \tc3 \pw pharol \pw* \tc4 \pw tu \pw* \tc5 \pw chinpa \pw* \tc6 \pw 'i \pw* \tc7 \pw nyingpo \pw* \tc8 \pw dzok \pw*
 \tr \tc0 \ww arya \ww* \tc1 \ww wisdom \ww* \tc2 \ww OF \ww* \tc3 \ww other shore \ww* \tc4 \ww TO \ww* \tc5 \ww gone \ww* \tc6 \ww OF \ww* \tc7 \ww heart \ww* \tc8 \ww completed \ww*
@@ -502,4 +502,3 @@
 \tr \tc0 \ow སོ།། \ow*
 \tr \tc0 \pw so \pw*
 \tr \tc0 \ww END \ww*
-\iot Ärya-bhagavatï-prajñäpäramitä-hridaya-sütra is finished.

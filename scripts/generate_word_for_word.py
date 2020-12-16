@@ -56,7 +56,7 @@ def gen_tables(csv_path, literal_path, out_file):
             sub_tables.append(sub_table)
 
         table = '\n\\b\n'.join(['\n'.join([' '.join(a) for a in sub]) for sub in sub_tables])
-        tables.append(f'\mi\n\\v {line+1}\n{table}\n\\iot {literal[line]}')
+        tables.append(f'\mi\n\\v {line+1} \iot {literal[line]}\n{table}\n')
 
     header = '\id word_for_word\n'
     total = header + '\n'.join(tables)
