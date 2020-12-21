@@ -47,7 +47,7 @@ class Usfm:
 
                 else:
                     for cat, k in j.items():
-                        outfile = folder / f'{cat}_{lang}.usfm'
+                        outfile = folder / f'{lang}_{cat}.usfm'
                         infile = k[0]  # one file per cat per lang is supported at the moment
                         if cat == 'phonetics':
                             out = self.gen_phon(infile, cat, lang)
@@ -80,7 +80,7 @@ class Usfm:
         return id + usfm
 
     def gen_phon(self, infile, cat, lang):
-        id = f'\id {cat}_{lang}\n'
+        id = f'\id {lang}_{cat}\n'
         dump = infile.read_text(encoding='utf-8')
 
         parsed = self._parse_text(dump)
@@ -89,7 +89,7 @@ class Usfm:
         return id + usfm
 
     def gen_words(self, infile, cat, lang):
-        id = f'\id {cat}_{lang}\n'
+        id = f'\id {lang}_{cat}\n'
         dump = infile.read_text(encoding='utf-8')
 
         parsed = self._parse_text(dump)
@@ -108,7 +108,7 @@ class Usfm:
         return '\n'.join([id] + usfm)
 
     def gen_lit(self, infile, cat, lang):
-        id = f'\id {cat}_{lang}\n'
+        id = f'\id {lang}_{cat}\n'
         dump = infile.read_text(encoding='utf-8')
 
         parsed = self._parse_text(dump)
