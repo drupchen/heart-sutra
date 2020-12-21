@@ -70,19 +70,32 @@ class Usfm:
                             outfile.write_text(out, encoding='utf-8')
 
     def gen_orig(self, infile):
+        id = f'\id བོད་ཡིག\n'
+
         dump = infile.read_text(encoding='utf-8')
-        usfm = []
-        return '\n'.join(usfm)
+
+        parsed = self._parse_text(dump)
+        usfm = self._format_usfm(parsed)
+
+        return id + usfm
 
     def gen_phon(self, infile, cat, lang):
+        id = f'\id {cat}_{lang}\n'
         dump = infile.read_text(encoding='utf-8')
-        usfm = []
-        return '\n'.join(usfm)
+
+        parsed = self._parse_text(dump)
+        usfm = self._format_usfm(parsed)
+
+        return id + usfm
 
     def gen_words(self, infile, cat, lang):
+        id = f'\id {cat}_{lang}\n'
         dump = infile.read_text(encoding='utf-8')
-        usfm = []
-        return '\n'.join(usfm)
+
+        parsed = self._parse_text(dump)
+        usfm = self._format_usfm(parsed)
+
+        return id + usfm
 
     def gen_w4w(self, infile, cat, lang, lit=None):
         id = f'\id {lang}_{cat}\n'
@@ -95,9 +108,13 @@ class Usfm:
         return '\n'.join([id] + usfm)
 
     def gen_lit(self, infile, cat, lang):
+        id = f'\id {cat}_{lang}\n'
         dump = infile.read_text(encoding='utf-8')
-        usfm = []
-        return '\n'.join(usfm)
+
+        parsed = self._parse_text(dump)
+        usfm = self._format_usfm(parsed)
+
+        return id + usfm
 
     def gen_trans(self, infile, cat, lang):
         id = f'\id {lang}_{cat}\n'
@@ -251,7 +268,7 @@ class Usfm:
 
             table = '\n\\b\n'.join(['\n'.join([' '.join(a) for a in sub]) for sub in sub_tables])
             if literal:
-                tables.append(f'\mi\n\\v {line + 1}\n\iot {literal[line]} \iot*\n{table}\n')
+                tables.append(f'\mi\n\\v {line + 1}\n{table}\n\iot {literal[line]}\n')
             else:
                 tables.append(f'\mi\n\\v {line + 1}\n{table}\n')
 
