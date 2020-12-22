@@ -235,6 +235,7 @@ class Usfm:
 
                 if char_count <= line_len or table_w_cur <= table_w_max:
                     for num, x in enumerate([o_word, p_word, w_word]):
+                        x = x.replace(' ', '~')
                         sub_table[num].append(f'\\tc{table_w_cur}')
                         if num == 0:
                             sub_table[num].append(f'\ow {x} \ow*')
@@ -268,7 +269,7 @@ class Usfm:
 
             table = '\n\\b\n'.join(['\n'.join([' '.join(a) for a in sub]) for sub in sub_tables])
             if literal:
-                tables.append(f'\mi\n\\v {line + 1}\n{table}\n\iot {literal[line]}\n')
+                tables.append(f'\mi\n\\v {line + 1}\n{table}\n\s {literal[line]}\n')
             else:
                 tables.append(f'\mi\n\\v {line + 1}\n{table}\n')
 
